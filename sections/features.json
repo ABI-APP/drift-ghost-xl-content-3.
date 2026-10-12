@@ -1,0 +1,57 @@
+{
+  "section_id": "features",
+  "version": 3,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "Dash Cam Mode" },
+      { "type": "paragraph", "text": "Dash Cam Mode records in a continuous loop. When the memory card fills up, the oldest footage is automatically overwritten — keeping the card from ever running out of space. The loop duration (how long each individual clip is) is controlled by the Dash Cam Interval setting: 30 seconds, 1, 2, or 5 minutes." },
+      { "type": "paragraph", "text": "In Dash Cam Mode the camera also powers on automatically whenever it detects an incoming power supply, and powers off cleanly when that supply is removed. This makes it ideal for vehicle use — plug it into the car's USB or 12 V socket and it starts recording with the ignition. Enable it by holding the Middle button for two seconds in Video mode, or toggle it inside the Settings menu." },
+      { "type": "heading",   "text": "Event Detection" },
+      { "type": "paragraph", "text": "When Dash Cam Mode is active and Event Detection is switched on, an internal accelerometer watches for sudden impacts or sharp direction changes. When triggered, the surrounding footage is written to a protected EVENT folder on the memory card and cannot be overwritten by the loop. Enable Event Detection from the Settings menu alongside Dash Cam Mode." },
+      { "type": "heading",   "text": "Video Tagging" },
+      { "type": "paragraph", "text": "Video Tagging lets the camera record continuously in the background without saving everything. When something important happens, press the tag button to save the surrounding footage. The Tagging Interval controls how much footage is captured: for example, a 30-second interval saves the 30 seconds before the tag plus the 30 seconds after it, producing a one-minute clip." },
+      { "type": "paragraph", "text": "Requirements: a Class 10 microSD card with at least 4 GB of free space. Video Tagging cannot be active at the same time as Dash Cam Mode." },
+      { "type": "heading",   "text": "Video-Lapse" },
+      { "type": "paragraph", "text": "Video-Lapse creates a fast-motion condensed video automatically — no editing required. Enable it in Settings, choose a Video-Lapse Interval (0.5 s to 30 s), then switch to Video mode and record as normal. The camera stitches the result into a single timelapse-style MP4. A shorter interval produces smoother but slower-motion playback; a longer interval produces faster motion." },
+      { "type": "heading",   "text": "Clone Mode" },
+      { "type": "paragraph", "text": "Clone Mode links multiple compatible Drift cameras in the Ghost range into a single wireless network. One camera is set as Master; all others are set as Slave. The Master camera then controls start, stop, mode changes, and settings across the entire group. All cameras in the network must be running the same firmware version. Check the Drift Innovation support page to confirm which models are compatible with your Ghost XL firmware version before attempting a mixed-model setup." },
+      { "type": "paragraph", "text": "Setup: go to Settings, select Clone Mode, choose Master on one camera and Slave on each additional camera. Select a matching Clone Group number on all devices. The cameras pair automatically." },
+      { "type": "heading",   "text": "Instant On" },
+      { "type": "paragraph", "text": "With Instant On enabled, the camera skips the normal standby state and begins recording the moment it is powered on. This is useful when you need to capture footage immediately without pressing the record button separately. Enable it in the Settings menu." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "대시캠 모드" },
+      { "type": "paragraph", "text": "대시캠 모드는 연속 루프 방식으로 녹화합니다. 메모리 카드가 가득 차면 가장 오래된 영상이 자동으로 덮어쓰여 카드 공간이 부족해지는 일이 없습니다. 각 클립의 길이는 대시캠 인터벌 설정으로 조정합니다: 30초, 1분, 2분, 또는 5분." },
+      { "type": "paragraph", "text": "대시캠 모드에서는 전원이 공급되면 카메라가 자동으로 켜지고 전원이 차단되면 즉시 종료됩니다. 차량 USB 또는 12V 소켓에 연결하면 시동과 함께 녹화가 시작되어 차량 탑재에 이상적입니다. 동영상 모드에서 중앙 버튼을 2초간 길게 누르거나 설정 메뉴에서 활성화할 수 있습니다." },
+      { "type": "heading",   "text": "이벤트 감지" },
+      { "type": "paragraph", "text": "대시캠 모드와 이벤트 감지가 모두 활성화된 상태에서 내부 가속도계가 급격한 충격이나 방향 전환을 감지하면, 주변 영상이 메모리 카드의 EVENT 폴더에 보호 저장되어 루프 덮어쓰기 대상에서 제외됩니다. 설정 메뉴에서 대시캠 모드와 함께 이벤트 감지를 활성화하세요." },
+      { "type": "heading",   "text": "동영상 태깅" },
+      { "type": "paragraph", "text": "동영상 태깅을 사용하면 카메라가 백그라운드에서 계속 녹화하지만 모든 영상을 저장하지는 않습니다. 중요한 순간에 태그 버튼을 누르면 주변 영상이 저장됩니다. 태깅 인터벌이 저장 범위를 결정합니다: 예를 들어 30초로 설정하면 태그 전 30초와 태그 후 30초가 합쳐진 1분짜리 클립이 저장됩니다." },
+      { "type": "paragraph", "text": "필요 조건: Class 10 microSD 카드, 4GB 이상의 여유 공간. 동영상 태깅과 대시캠 모드는 동시에 사용할 수 없습니다." },
+      { "type": "heading",   "text": "비디오랩스(Video-Lapse)" },
+      { "type": "paragraph", "text": "비디오랩스는 편집 없이 빠른 배속 영상을 자동으로 생성합니다. 설정에서 비디오랩스를 활성화하고 인터벌(0.5초~30초)을 선택한 뒤 동영상 모드에서 평소처럼 녹화하면 됩니다. 카메라가 자동으로 타임랩스 스타일의 MP4 영상을 생성합니다. 인터벌이 짧을수록 재생 속도가 느리고, 길수록 더 빠른 배속 영상이 됩니다." },
+      { "type": "heading",   "text": "클론 모드" },
+      { "type": "paragraph", "text": "클론 모드는 Ghost 시리즈의 호환 가능한 Drift 카메라 여러 대를 하나의 무선 네트워크로 연결합니다. 카메라 한 대를 마스터로 설정하고 나머지는 슬레이브로 설정합니다. 마스터 카메라로 전체 그룹의 녹화 시작/정지, 모드 변경, 설정을 제어할 수 있습니다. 네트워크 내 모든 카메라는 동일한 펌웨어 버전을 실행해야 합니다. 여러 기종을 혼용하기 전에 Drift Innovation 지원 페이지에서 현재 Ghost XL 펌웨어 버전과 호환되는 기종을 확인하세요." },
+      { "type": "paragraph", "text": "설정 방법: 설정 메뉴에서 클론 모드를 선택하고, 한 대에서 마스터를, 나머지 카메라에서 슬레이브를 선택합니다. 모든 기기에서 동일한 클론 그룹 번호를 선택하면 자동으로 연결됩니다." },
+      { "type": "heading",   "text": "즉시 시작(Instant On)" },
+      { "type": "paragraph", "text": "즉시 시작 기능을 활성화하면 카메라가 켜지는 즉시 녹화를 시작합니다. 별도로 녹화 버튼을 누를 필요 없이 바로 영상을 담아야 할 때 유용합니다. 설정 메뉴에서 활성화하세요." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Режим видеорегистратора (Dash Cam)" },
+      { "type": "paragraph", "text": "В режиме видеорегистратора камера записывает по кругу. Когда карта памяти заполняется, самые старые записи автоматически перезаписываются — место на карте никогда не заканчивается. Длительность каждого отдельного клипа задаётся параметром Dash Cam Interval: 30 секунд, 1, 2 или 5 минут." },
+      { "type": "paragraph", "text": "В режиме видеорегистратора камера автоматически включается при обнаружении источника питания и выключается при его отключении. Подключите её к USB-порту или разъёму 12 В в автомобиле — запись начнётся вместе с запуском двигателя. Режим включается удержанием средней кнопки две секунды в режиме видео или через меню настроек." },
+      { "type": "heading",   "text": "Определение событий (Event Detection)" },
+      { "type": "paragraph", "text": "Когда активны режим видеорегистратора и определение событий, внутренний акселерометр отслеживает резкие удары и изменения направления движения. При срабатывании окружающие записи помещаются в защищённую папку EVENT на карте памяти и не могут быть перезаписаны в ходе цикличной записи. Включите оба параметра в меню настроек." },
+      { "type": "heading",   "text": "Маркировка видео (Video Tagging)" },
+      { "type": "paragraph", "text": "Маркировка видео позволяет камере вести непрерывную запись в фоновом режиме, не сохраняя всё подряд. В нужный момент нажмите кнопку тега — и окружающие кадры будут сохранены. Интервал маркировки определяет объём сохраняемого материала: например, при интервале 30 секунд сохраняются 30 секунд до тега и 30 секунд после него — итого минутный клип." },
+      { "type": "paragraph", "text": "Требования: карта microSD Class 10 с не менее 4 ГБ свободного места. Маркировка видео и режим видеорегистратора не могут работать одновременно." },
+      { "type": "heading",   "text": "Ускоренная съёмка (Video-Lapse)" },
+      { "type": "paragraph", "text": "Video-Lapse автоматически создаёт ускоренное видео — монтаж не требуется. Включите режим в настройках, выберите интервал (от 0,5 с до 30 с), перейдите в режим видео и снимайте как обычно. Камера самостоятельно соберёт результат в один таймлапс-ролик в формате MP4. Короткий интервал даёт более плавное, но медленное ускорение; длинный — более быстрое." },
+      { "type": "heading",   "text": "Режим клонирования (Clone Mode)" },
+      { "type": "paragraph", "text": "Clone Mode объединяет несколько совместимых камер Drift из линейки Ghost в единую беспроводную сеть. Одна камера назначается ведущей (Master), остальные — ведомыми (Slave). Ведущая камера управляет запуском и остановкой записи, сменой режимов и настройками всей группы. Все камеры в сети должны работать на одинаковой версии прошивки. Перед использованием разных моделей вместе проверьте на странице поддержки Drift Innovation, какие модели совместимы с установленной версией прошивки Ghost XL." },
+      { "type": "paragraph", "text": "Настройка: в меню настроек выберите Clone Mode, назначьте одну камеру Master, на остальных выберите Slave. Установите одинаковый номер Clone Group на всех устройствах — камеры соединятся автоматически." },
+      { "type": "heading",   "text": "Мгновенный запуск (Instant On)" },
+      { "type": "paragraph", "text": "При включённом Instant On камера пропускает режим ожидания и начинает запись сразу при включении питания. Это полезно, когда нужно снять момент, не нажимая отдельно кнопку записи. Включите эту функцию в меню настроек." }
+    ]
+  }
+}

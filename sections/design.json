@@ -1,0 +1,45 @@
+{
+  "section_id": "design",
+  "version": 2,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "Included Mounts" },
+      { "type": "paragraph", "text": "The Ghost XL ships with two adhesive mounts and one clip mount. The Curved Adhesive Mount fits rounded surfaces such as helmets and smooth curved panels. The Flat Adhesive Mount is for flat surfaces. Both adhesive mounts use 3M-style tape; clean the surface with an alcohol wipe and allow 24 hours for the adhesive to cure fully before riding." },
+      { "type": "paragraph", "text": "The Universal Clip is the most versatile included mount. Its jaws open to clamp onto rails, straps, roll-cages, chest harnesses, handlebar extensions, and similar surfaces without adhesive or drilling. Tighten the thumb screw firmly — it should require noticeable effort to twist the camera by hand once secure." },
+      { "type": "heading",   "text": "Using the Lens Marker" },
+      { "type": "paragraph", "text": "The Lens Marker is a small notch or indicator on the edge of the rotating lens ring. It marks the top of the frame: when the Lens Marker points upward, the image on the LCD screen is level. After mounting the camera in any position, rotate the lens until the Lens Marker points toward the sky to get a level horizon before recording." },
+      { "type": "heading",   "text": "Helmet Mounting Tips" },
+      { "type": "paragraph", "text": "Mount the camera at the side or chin of the helmet rather than the top for a lower drag profile. Press the adhesive mount firmly for 30 seconds and work outward from the centre to remove air bubbles. Use the curved mount only on surfaces with a gentle curve matching the mount's profile — forcing it onto a tightly curved surface will cause it to peel off under vibration." },
+      { "type": "heading",   "text": "Optional Accessory Mounts" },
+      { "type": "paragraph", "text": "Drift offers additional mounts sold separately. The Handlebar Mount clamps onto round bars between 19 mm and 36 mm in diameter — covers motorbikes, bicycles, and scooter bars. The Suction Cup Mount attaches to flat glass or smooth painted surfaces such as windshields and car bonnets without adhesive; always test the suction before use on a moving vehicle. The Pivot Mount allows nearly any angle and can be combined with other mount bases." },
+      { "type": "heading",   "text": "Removing Adhesive Mounts" },
+      { "type": "paragraph", "text": "Warm the adhesive pad with a hairdryer on a low setting for 30–60 seconds to soften the tape, then gently peel the mount away at a low angle. Residue can be removed with an adhesive remover or rubbing alcohol. Do not pull the mount straight off — this can damage painted surfaces or leave the tape base behind." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "기본 제공 마운트" },
+      { "type": "paragraph", "text": "Ghost XL에는 접착 마운트 2개와 클립 마운트 1개가 포함되어 있습니다. 곡면 접착 마운트는 헬멧이나 부드럽게 곡면이 진 표면에 적합합니다. 평면 접착 마운트는 평평한 표면용입니다. 두 접착 마운트 모두 3M 방식의 테이프를 사용합니다. 알코올 와이프로 표면을 닦은 후, 라이딩 전 최소 24시간 동안 접착제가 완전히 굳도록 기다리세요." },
+      { "type": "paragraph", "text": "유니버설 클립은 가장 범용적인 포함 마운트입니다. 접착제나 드릴 없이 레일, 스트랩, 롤 케이지, 가슴 하네스, 핸들바 익스텐션 등 다양한 표면에 집게처럼 고정할 수 있습니다. 손으로 카메라를 비틀었을 때 확실한 저항감이 느껴질 만큼 나사를 단단히 조이세요." },
+      { "type": "heading",   "text": "렌즈 마커 활용하기" },
+      { "type": "paragraph", "text": "렌즈 마커는 회전 렌즈 링 가장자리의 작은 홈 또는 표시입니다. 프레임의 위쪽을 나타냅니다: 렌즈 마커가 위를 향하면 LCD 화면의 이미지가 수평이 됩니다. 카메라를 어떤 방향으로든 마운트한 후, 녹화 전에 렌즈 마커가 하늘을 향하도록 렌즈를 돌려 수평 구도를 잡으세요." },
+      { "type": "heading",   "text": "헬멧 마운팅 팁" },
+      { "type": "paragraph", "text": "바람 저항을 줄이려면 카메라를 헬멧 위가 아닌 옆면이나 턱 부분에 마운트하세요. 접착 마운트를 30초간 단단히 눌러 기포를 중앙에서 바깥 방향으로 밀어내세요. 곡면 마운트는 마운트 프로파일에 맞는 완만한 곡면에만 사용하세요 — 급격하게 휜 표면에 억지로 붙이면 진동에 의해 떨어질 수 있습니다." },
+      { "type": "heading",   "text": "선택 액세서리 마운트" },
+      { "type": "paragraph", "text": "Drift는 별도로 판매되는 추가 마운트를 제공합니다. 핸들바 마운트는 19~36mm 지름의 둥근 바에 고정됩니다 — 오토바이, 자전거, 스쿠터 핸들에 모두 사용 가능합니다. 흡착 마운트는 접착제 없이 앞 유리나 차 보닛 같은 평평한 유리나 매끄러운 도장 표면에 부착됩니다. 주행 중 사용 전에 반드시 흡착력을 테스트하세요. 피벗 마운트는 거의 모든 각도를 허용하며 다른 마운트 베이스와 조합할 수 있습니다." },
+      { "type": "heading",   "text": "접착 마운트 제거하기" },
+      { "type": "paragraph", "text": "헤어드라이어를 약한 설정으로 30~60초 동안 접착 패드에 대어 테이프를 부드럽게 만든 후, 낮은 각도로 천천히 뜯어내세요. 잔여 접착제는 접착제 제거제나 알코올로 닦아낼 수 있습니다. 마운트를 직각으로 당기지 마세요 — 도장 표면이 손상되거나 테이프 베이스가 남을 수 있습니다." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Крепления в комплекте" },
+      { "type": "paragraph", "text": "В комплект Ghost XL входят два клейких крепления и одна зажимная клипса. Изогнутое клейкое крепление подходит для скруглённых поверхностей — шлемов и выпуклых панелей. Плоское клейкое крепление предназначено для плоских поверхностей. Оба крепления используют ленту типа 3M: протрите поверхность спиртовой салфеткой и дайте клею затвердеть не менее 24 часов перед поездкой." },
+      { "type": "paragraph", "text": "Универсальная клипса (Universal Clip) — самое универсальное крепление в комплекте. Её губки зажимают рейлинги, ремни, каркасы безопасности, нагрудные системы, удлинители руля и подобные поверхности без клея и сверления. Затяните барашковый винт до ощутимого сопротивления — камера не должна проворачиваться рукой после затяжки." },
+      { "type": "heading",   "text": "Работа с меткой объектива (Lens Marker)" },
+      { "type": "paragraph", "text": "Lens Marker — небольшой выступ или метка на краю кольца поворотного объектива, обозначающий верх кадра. Когда Lens Marker направлен вверх, изображение на ЖК-экране горизонтально. После установки камеры в любом положении поверните объектив так, чтобы метка смотрела в небо — это даёт ровный горизонт перед записью." },
+      { "type": "heading",   "text": "Советы по креплению на шлем" },
+      { "type": "paragraph", "text": "Для снижения сопротивления воздуху крепите камеру на бок или подбородочную часть шлема, а не на макушку. Прижмите клейкое крепление на 30 секунд и разглаживайте от центра к краям, выгоняя пузыри. Используйте изогнутое крепление только на поверхностях с плавной кривизной, соответствующей профилю крепления — при сильном изгибе вибрация оторвёт крепление." },
+      { "type": "heading",   "text": "Дополнительные крепления (опционально)" },
+      { "type": "paragraph", "text": "Drift предлагает дополнительные крепления, продаваемые отдельно. Крепление на руль (Handlebar Mount) зажимает круглые трубы диаметром от 19 до 36 мм — подходит для мотоциклов, велосипедов и скутеров. Присоска (Suction Cup Mount) крепится к плоскому стеклу или гладкой крашеной поверхности — лобовому стеклу, капоту — без клея; всегда проверяйте надёжность фиксации до движения. Поворотное крепление (Pivot Mount) позволяет установить камеру под почти любым углом и комбинируется с другими основаниями." },
+      { "type": "heading",   "text": "Снятие клейких креплений" },
+      { "type": "paragraph", "text": "Нагрейте клейкий слой феном на слабой мощности 30–60 секунд, чтобы размягчить ленту, затем медленно отделяйте крепление под острым углом. Остатки клея удаляются средством для удаления клея или спиртом. Не тяните крепление перпендикулярно — это может повредить покрытие или оставить основание ленты на поверхности." }
+    ]
+  }
+}

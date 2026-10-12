@@ -1,0 +1,63 @@
+{
+  "section_id": "performance",
+  "version": 2,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "Video Resolutions" },
+      { "type": "paragraph", "text": "1080p (1920 × 1080) at 25 or 30 fps — full HD, best for general use and sharing. Supports an HDR mode for high-contrast scenes." },
+      { "type": "paragraph", "text": "960p (1280 × 960) at 25 or 30 fps — a 4:3 aspect ratio, useful if you need square-ish framing rather than widescreen." },
+      { "type": "paragraph", "text": "720p (1280 × 720) at 25, 30, 48, 50, or 60 fps — higher frame rates produce smoother slow-motion results when edited. 60 fps at 720p is the best choice for fast-action sports where motion blur matters." },
+      { "type": "paragraph", "text": "WVGA (848 × 480) at 25, 30, 50, or 60 fps — lower resolution, smaller file size, longest recording time per gigabyte. Use when storage is limited or maximum battery life is the priority." },
+      { "type": "paragraph", "text": "All video is saved as MP4 using the H.264 codec, which is compatible with virtually all video editing software and media players." },
+      { "type": "heading",   "text": "Field of View" },
+      { "type": "paragraph", "text": "140° — widest angle; captures the most of the scene but produces the most barrel distortion at the edges. Best for helmet mounting where a wide, immersive view is wanted." },
+      { "type": "paragraph", "text": "115° — a balanced middle setting that reduces edge distortion while retaining a wide perspective. A good default for most situations." },
+      { "type": "paragraph", "text": "90° — tightest angle; the least distortion and most natural-looking perspective. Useful for forward-facing mounts where the scene ahead is the focus." },
+      { "type": "heading",   "text": "Bit Rate" },
+      { "type": "paragraph", "text": "High: the camera retains more of the original image data in each frame, producing larger files but greater detail and less compression artefacts. Recommended for footage you plan to edit or review closely." },
+      { "type": "paragraph", "text": "Mid / Low: increasing compression reduces file size. Use lower bit rates when storage space is limited or when the footage is for quick review rather than editing." },
+      { "type": "heading",   "text": "Exposure and ISO" },
+      { "type": "paragraph", "text": "Exposure can be adjusted from −2 to +2 in steps. Negative values darken the image; positive values brighten it. ISO is available in Auto mode and manual settings of 100, 200, 400, and 800. In most outdoor conditions, Auto ISO gives the best results." },
+      { "type": "heading",   "text": "Filters" },
+      { "type": "paragraph", "text": "Normal: balanced colour, suitable for most conditions. Vivid: more saturated colours, suited to bright outdoor scenes. Low Light: adjusted processing for dim conditions such as dawn, dusk, or indoor environments." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "동영상 해상도" },
+      { "type": "paragraph", "text": "1080p(1920×1080), 25 또는 30fps — 풀 HD, 일반 촬영 및 공유에 최적. 명암 대비가 높은 장면을 위한 HDR 모드를 지원합니다." },
+      { "type": "paragraph", "text": "960p(1280×960), 25 또는 30fps — 4:3 화면 비율로, 와이드스크린이 아닌 정사각형에 가까운 구도가 필요할 때 유용합니다." },
+      { "type": "paragraph", "text": "720p(1280×720), 25·30·48·50·60fps — 높은 프레임레이트는 편집 시 부드러운 슬로우 모션을 구현합니다. 모션 블러가 중요한 액션 스포츠에는 720p 60fps를 권장합니다." },
+      { "type": "paragraph", "text": "WVGA(848×480), 25·30·50·60fps — 낮은 해상도, 작은 파일 크기, GB당 최장 녹화 시간. 저장 공간이 제한되거나 배터리 수명을 최우선으로 할 때 사용합니다." },
+      { "type": "paragraph", "text": "모든 동영상은 H.264 코덱의 MP4 형식으로 저장되어 거의 모든 편집 소프트웨어 및 미디어 플레이어와 호환됩니다." },
+      { "type": "heading",   "text": "화각(FOV)" },
+      { "type": "paragraph", "text": "140° — 가장 넓은 화각. 장면을 최대한 담을 수 있지만 가장자리 왜곡이 많습니다. 넓고 몰입감 있는 화면이 필요한 헬멧 마운팅에 적합합니다." },
+      { "type": "paragraph", "text": "115° — 균형 잡힌 중간 설정으로 가장자리 왜곡을 줄이면서 넓은 시야를 유지합니다. 대부분의 상황에서 기본값으로 사용하기 좋습니다." },
+      { "type": "paragraph", "text": "90° — 가장 좁은 화각. 왜곡이 가장 적고 자연스러운 원근감을 제공합니다. 전방을 집중적으로 담는 전면 마운팅에 유용합니다." },
+      { "type": "heading",   "text": "비트레이트" },
+      { "type": "paragraph", "text": "높음(High): 각 프레임에 더 많은 원본 이미지 데이터를 보존해 파일 크기가 크지만 세부 묘사가 뛰어나고 압축 아티팩트가 적습니다. 편집하거나 자세히 검토할 영상에 권장합니다." },
+      { "type": "paragraph", "text": "중간(Mid)/낮음(Low): 압축률을 높여 파일 크기를 줄입니다. 저장 공간이 제한되거나 편집보다 빠른 확인이 목적일 때 사용하세요." },
+      { "type": "heading",   "text": "노출 및 ISO" },
+      { "type": "paragraph", "text": "노출은 -2에서 +2 사이에서 단계적으로 조정할 수 있습니다. 음수 값은 이미지를 어둡게, 양수 값은 밝게 합니다. ISO는 자동 모드와 수동(100, 200, 400, 800) 설정을 지원합니다. 대부분의 야외 환경에서는 자동 ISO가 최적의 결과를 제공합니다." },
+      { "type": "heading",   "text": "필터" },
+      { "type": "paragraph", "text": "기본(Normal): 균형 잡힌 색상으로 대부분의 환경에 적합합니다. 선명(Vivid): 더욱 생동감 있는 색상으로 밝은 야외 장면에 어울립니다. 저조도(Low Light): 새벽, 황혼, 실내 등 어두운 환경에 최적화된 처리 방식입니다." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Разрешение видео" },
+      { "type": "paragraph", "text": "1080p (1920 × 1080) при 25 или 30 кадрах в секунду — Full HD, лучший вариант для повседневной съёмки и публикации. Поддерживает режим HDR для сцен с высоким контрастом." },
+      { "type": "paragraph", "text": "960p (1280 × 960) при 25 или 30 кадрах в секунду — соотношение сторон 4:3, полезно, когда нужна более квадратная, а не широкоэкранная кадрировка." },
+      { "type": "paragraph", "text": "720p (1280 × 720) при 25, 30, 48, 50 или 60 кадрах в секунду — более высокая частота кадров даёт плавное замедленное движение при монтаже. 60 кадров в секунду при 720p — оптимальный выбор для динамичных видов спорта." },
+      { "type": "paragraph", "text": "WVGA (848 × 480) при 25, 30, 50 или 60 кадрах в секунду — низкое разрешение, маленький размер файла, максимальное время записи на гигабайт. Используйте при ограниченном объёме хранилища или для экономии заряда аккумулятора." },
+      { "type": "paragraph", "text": "Всё видео сохраняется в формате MP4 с кодеком H.264, который совместим практически со всеми видеоредакторами и медиаплеерами." },
+      { "type": "heading",   "text": "Угол обзора (FOV)" },
+      { "type": "paragraph", "text": "140° — наиболее широкий угол; охватывает максимальную площадь сцены, но даёт наибольшее дисторсионное искажение по краям. Лучший выбор для крепления на шлем, когда нужен широкий, захватывающий обзор." },
+      { "type": "paragraph", "text": "115° — сбалансированный средний режим, снижающий краевые искажения при сохранении широкого угла обзора. Хороший вариант по умолчанию для большинства ситуаций." },
+      { "type": "paragraph", "text": "90° — наиболее узкий угол; минимальные искажения и наиболее естественная перспектива. Полезен при фронтальном креплении, когда главный объект — то, что впереди." },
+      { "type": "heading",   "text": "Битрейт" },
+      { "type": "paragraph", "text": "Высокий (High): в каждом кадре сохраняется больше исходных данных изображения — файлы крупнее, но детализация выше и меньше артефактов сжатия. Рекомендуется для материала, который планируется монтировать или детально просматривать." },
+      { "type": "paragraph", "text": "Средний (Mid) / Низкий (Low): увеличение сжатия уменьшает размер файла. Используйте пониженный битрейт при нехватке места или когда запись нужна для быстрого просмотра, а не монтажа." },
+      { "type": "heading",   "text": "Экспозиция и ISO" },
+      { "type": "paragraph", "text": "Экспозицию можно регулировать от −2 до +2 пошагово. Отрицательные значения затемняют изображение, положительные — осветляют. ISO доступен в режиме авто и ручных значениях 100, 200, 400 и 800. В большинстве условий съёмки на улице автоматический ISO даёт наилучший результат." },
+      { "type": "heading",   "text": "Фильтры" },
+      { "type": "paragraph", "text": "Обычный (Normal): сбалансированные цвета, подходит для большинства условий. Насыщенный (Vivid): более яркие, насыщенные цвета, хорош для ярких уличных сцен. Слабое освещение (Low Light): оптимизированная обработка для съёмки в темноте — на рассвете, в сумерках или в помещении." }
+    ]
+  }
+}

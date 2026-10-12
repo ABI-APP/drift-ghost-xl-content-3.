@@ -1,0 +1,42 @@
+{
+  "section_id": "firmware",
+  "version": 3,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "Checking Your Current Firmware Version" },
+      { "type": "paragraph", "text": "Go to Settings on the camera and scroll to Firmware Version. The installed version number is displayed there. Note it down before checking for updates." },
+      { "type": "heading",   "text": "Downloading a Firmware Update" },
+      { "type": "paragraph", "text": "Firmware updates are distributed by Drift Innovation on their official support page for the Ghost XL. Visit driftinnovation.com, navigate to Support, and find the Ghost XL downloads section. Download the firmware file (typically a .bin file) to your computer. Verify that the file is specifically for the Ghost XL model — firmware from other Drift cameras is not compatible." },
+      { "type": "heading",   "text": "Installing a Firmware Update" },
+      { "type": "paragraph", "text": "1. Format a microSD card in the camera (Settings → Format Card). 2. Connect the card to your computer using a card reader. 3. Copy the firmware .bin file to the root of the card (not inside any folder). 4. Safely eject the card from the computer and insert it into the camera. 5. Power on the camera. If the firmware file is correctly named and valid, the camera detects it automatically and displays an update prompt. 6. Confirm the update. The camera installs the firmware, restarts, and returns to normal operation. Do not remove the card or battery during this process." },
+      { "type": "heading",   "text": "After the Update" },
+      { "type": "paragraph", "text": "After a successful update, go to Settings → Firmware Version to confirm the new version number is shown. The firmware file remains on the card after installation — you can delete it to free up space. Your settings and preferences are preserved after a firmware update; you do not need to reconfigure the camera." },
+      { "type": "heading",   "text": "Firmware Recovery" },
+      { "type": "paragraph", "text": "If the camera becomes unresponsive after a failed firmware update, do not attempt to disassemble or repair it yourself. Drift Innovation provides an official Ghost XL Recovery Tool, available for download on the Ghost XL support page at driftinnovation.com. Contact Drift Innovation support first to confirm you are using the correct recovery procedure for your situation — do not apply the Recovery Tool without their guidance, as using it incorrectly can cause permanent damage." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "현재 펌웨어 버전 확인" },
+      { "type": "paragraph", "text": "카메라에서 설정 메뉴로 이동하여 펌웨어 버전 항목까지 스크롤하세요. 현재 설치된 버전 번호가 표시됩니다. 업데이트를 확인하기 전에 버전 번호를 기록해 두세요." },
+      { "type": "heading",   "text": "펌웨어 업데이트 다운로드" },
+      { "type": "paragraph", "text": "펌웨어 업데이트는 Drift Innovation의 Ghost XL 공식 지원 페이지에서 배포됩니다. driftinnovation.com을 방문하여 지원 → Ghost XL 다운로드 섹션에서 펌웨어 파일(일반적으로 .bin 파일)을 컴퓨터에 다운로드하세요. 반드시 Ghost XL 모델용 파일인지 확인하세요 — 다른 Drift 카메라용 펌웨어는 호환되지 않습니다." },
+      { "type": "heading",   "text": "펌웨어 업데이트 설치" },
+      { "type": "paragraph", "text": "1. 카메라에서 microSD 카드를 포맷합니다(설정 → 카드 포맷). 2. 카드 리더기로 카드를 컴퓨터에 연결합니다. 3. 펌웨어 .bin 파일을 카드의 루트(어떤 폴더 안도 아닌 최상위)에 복사합니다. 4. 컴퓨터에서 카드를 안전하게 제거하고 카메라에 삽입합니다. 5. 카메라를 켭니다. 펌웨어 파일명과 내용이 올바르면 카메라가 자동으로 파일을 감지하고 업데이트 안내를 표시합니다. 6. 업데이트를 확인합니다. 카메라가 펌웨어를 설치하고 재시작된 후 정상 작동합니다. 이 과정에서 카드나 배터리를 제거하지 마세요." },
+      { "type": "heading",   "text": "업데이트 후" },
+      { "type": "paragraph", "text": "업데이트가 성공적으로 완료되면 설정 → 펌웨어 버전에서 새 버전 번호가 표시되는지 확인하세요. 설치 후에도 펌웨어 파일은 카드에 남아 있으니 공간 확보를 위해 삭제해도 됩니다. 펌웨어 업데이트 후에도 설정과 환경 설정은 유지되므로 카메라를 다시 설정할 필요가 없습니다." },
+      { "type": "heading",   "text": "펌웨어 복구" },
+      { "type": "paragraph", "text": "펌웨어 업데이트 실패 후 카메라가 응답하지 않으면 직접 분해하거나 수리를 시도하지 마세요. Drift Innovation은 driftinnovation.com의 Ghost XL 지원 페이지에서 다운로드할 수 있는 공식 Ghost XL 복구 도구를 제공합니다. 복구 도구를 사용하기 전에 반드시 Drift Innovation 지원팀에 문의하여 현재 상황에 맞는 올바른 절차를 확인하세요 — 잘못 사용하면 영구적인 손상이 발생할 수 있습니다." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Проверка версии прошивки" },
+      { "type": "paragraph", "text": "Откройте на камере Настройки и прокрутите до пункта Firmware Version. Там отображается номер текущей установленной версии. Запишите его перед поиском обновлений." },
+      { "type": "heading",   "text": "Загрузка обновления прошивки" },
+      { "type": "paragraph", "text": "Обновления прошивки распространяются Drift Innovation на официальной странице поддержки Ghost XL. Посетите driftinnovation.com, перейдите в раздел Поддержка и найдите страницу загрузок для Ghost XL. Скачайте файл прошивки (обычно .bin) на компьютер. Убедитесь, что файл предназначен именно для модели Ghost XL — прошивка от других камер Drift несовместима." },
+      { "type": "heading",   "text": "Установка обновления прошивки" },
+      { "type": "paragraph", "text": "1. Отформатируйте карту microSD в камере (Настройки → Format Card). 2. Подключите карту к компьютеру через картридер. 3. Скопируйте файл прошивки .bin в корень карты (не в папку — именно в корень). 4. Безопасно извлеките карту из компьютера и вставьте её в камеру. 5. Включите камеру. Если имя и содержимое файла прошивки корректны, камера автоматически обнаружит его и отобразит запрос на обновление. 6. Подтвердите обновление. Камера установит прошивку, перезапустится и вернётся в обычный режим работы. Не извлекайте карту или аккумулятор в ходе этого процесса." },
+      { "type": "heading",   "text": "После обновления" },
+      { "type": "paragraph", "text": "После успешного обновления перейдите в Настройки → Firmware Version и убедитесь, что отображается новый номер версии. Файл прошивки остаётся на карте после установки — его можно удалить для освобождения места. Настройки и параметры камеры сохраняются после обновления прошивки; перенастройка камеры не требуется." },
+      { "type": "heading",   "text": "Восстановление прошивки" },
+      { "type": "paragraph", "text": "Если камера перестала реагировать после неудачного обновления прошивки, не разбирайте и не пытайтесь починить её самостоятельно. Drift Innovation предоставляет официальный инструмент восстановления Ghost XL Recovery Tool, доступный для загрузки на странице поддержки Ghost XL на сайте driftinnovation.com. Перед использованием Recovery Tool обязательно свяжитесь с поддержкой Drift Innovation, чтобы убедиться в правильности процедуры для вашей ситуации — неправильное применение инструмента может привести к необратимым повреждениям." }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "section_id": "battery",
+  "version": 2,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "Battery Capacity and Recording Time" },
+      { "type": "paragraph", "text": "The Ghost XL has a built-in, non-removable 3000 mAh lithium-polymer battery. Drift rates it for up to nine hours of continuous recording. Actual recording time varies with resolution, Wi-Fi use, and temperature — recording at 1080p with Wi-Fi enabled or in cold weather will reduce the available time." },
+      { "type": "heading",   "text": "Charging" },
+      { "type": "paragraph", "text": "Charge using the supplied micro USB cable connected to a 5 V USB charger or a computer USB port. The Status LED glows red while charging and turns off when the battery is full. A full charge from empty takes approximately 2.5 hours. The camera can record while charging if powered from a vehicle USB socket or a power bank — useful for longer trips." },
+      { "type": "heading",   "text": "Vehicle Power and Dash Cam Use" },
+      { "type": "paragraph", "text": "Connect the TRS Power Cable to the camera's 3.5 mm AUX port and the other end to a 12 V vehicle USB adapter. With Dash Cam Mode active, the camera powers on when vehicle power is applied and powers off cleanly when the ignition is cut. This allows continuous recording on long drives without draining the internal battery." },
+      { "type": "paragraph", "text": "Important: when the TRS Power Cable is plugged in, the 3.5 mm port is occupied. An external microphone cannot be used at the same time as vehicle power through this port. The waterproof seal is also broken when any adapter is connected — see the Build section for details." },
+      { "type": "heading",   "text": "Battery Care" },
+      { "type": "paragraph", "text": "Avoid leaving the camera in a hot car for extended periods — high ambient temperatures degrade lithium batteries over time. If storing the camera for more than a month, charge it to roughly 50% before storing. Do not attempt to open the camera or replace the battery yourself; the battery is sealed inside the waterproof body and replacement requires service." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "배터리 용량 및 녹화 시간" },
+      { "type": "paragraph", "text": "Ghost XL은 탈착 불가능한 3000mAh 리튬 폴리머 배터리를 내장하고 있습니다. Drift는 최대 9시간 연속 녹화를 보증합니다. 실제 녹화 시간은 해상도, Wi-Fi 사용 여부, 기온에 따라 달라집니다. 1080p로 녹화하거나 Wi-Fi를 켠 상태이거나 추운 날씨에서는 사용 가능한 시간이 줄어듭니다." },
+      { "type": "heading",   "text": "충전" },
+      { "type": "paragraph", "text": "동봉된 마이크로 USB 케이블을 5V USB 충전기 또는 컴퓨터 USB 포트에 연결하여 충전하세요. 충전 중에는 상태 LED가 빨간색으로 켜지며 충전이 완료되면 꺼집니다. 완전 방전 상태에서 완충까지 약 2.5시간이 소요됩니다. 차량 USB 소켓이나 보조 배터리로 전원을 공급하면 충전하면서 녹화할 수 있어 장거리 이동 시 유용합니다." },
+      { "type": "heading",   "text": "차량 전원 및 대시캠 사용" },
+      { "type": "paragraph", "text": "TRS 전원 케이블을 카메라의 3.5mm AUX 포트와 차량 12V USB 어댑터에 연결하세요. 대시캠 모드가 활성화된 상태에서 차량 전원이 들어오면 카메라가 자동으로 켜지고 시동이 꺼지면 안전하게 종료됩니다. 이를 통해 내장 배터리를 소모하지 않고 장거리 주행 내내 연속 녹화할 수 있습니다." },
+      { "type": "paragraph", "text": "주의: TRS 전원 케이블이 연결되어 있으면 3.5mm 포트를 사용할 수 없습니다. 이 포트를 통해 차량 전원을 사용하면서 동시에 외부 마이크를 연결할 수 없습니다. 또한 어떠한 어댑터를 연결해도 방수 씰이 해제됩니다 — 자세한 내용은 외관 및 설계 섹션을 참조하세요." },
+      { "type": "heading",   "text": "배터리 관리" },
+      { "type": "paragraph", "text": "카메라를 뜨거운 차 안에 장시간 방치하지 마세요 — 높은 주변 온도는 리튬 배터리를 서서히 손상시킵니다. 한 달 이상 보관할 경우 약 50% 충전 상태로 저장하세요. 카메라를 열거나 배터리를 직접 교체하려 하지 마세요. 배터리는 방수 케이스 안에 밀봉되어 있으며 교체는 서비스 센터에서만 가능합니다." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Ёмкость аккумулятора и время записи" },
+      { "type": "paragraph", "text": "Ghost XL оснащён встроенным несъёмным литий-полимерным аккумулятором ёмкостью 3000 мАч. По данным Drift, заряда хватает на до девяти часов непрерывной записи. Реальное время зависит от разрешения, использования Wi-Fi и температуры окружающей среды: запись в 1080p с включённым Wi-Fi или на морозе сокращает доступное время." },
+      { "type": "heading",   "text": "Зарядка" },
+      { "type": "paragraph", "text": "Заряжайте камеру прилагаемым кабелем micro USB от зарядного устройства 5 В или USB-порта компьютера. Во время зарядки светодиод горит красным, а после полной зарядки — гаснет. Полная зарядка с нуля занимает около 2,5 часов. При питании от USB-порта автомобиля или внешнего аккумулятора камера может записывать и одновременно заряжаться — удобно в длительных поездках." },
+      { "type": "heading",   "text": "Питание от автомобиля и режим видеорегистратора" },
+      { "type": "paragraph", "text": "Подключите кабель питания TRS к порту 3,5 мм AUX камеры и к USB-адаптеру 12 В автомобиля. В режиме видеорегистратора камера включается, когда подаётся питание, и корректно выключается при его отключении. Это обеспечивает непрерывную запись в длительных поездках без разряда встроенного аккумулятора." },
+      { "type": "paragraph", "text": "Важно: при подключённом кабеле TRS порт 3,5 мм занят. Одновременное использование внешнего микрофона и питания от автомобиля через этот порт невозможно. Кроме того, любой подключённый адаптер нарушает водонепроницаемость — подробности см. в разделе «Конструкция»." },
+      { "type": "heading",   "text": "Уход за аккумулятором" },
+      { "type": "paragraph", "text": "Не оставляйте камеру в раскалённой машине надолго — высокая температура постепенно разрушает литиевые аккумуляторы. При хранении более месяца зарядите камеру примерно до 50%. Не разбирайте камеру и не пытайтесь заменить аккумулятор самостоятельно — он запаян внутри водонепроницаемого корпуса, замена возможна только в сервисном центре." }
+    ]
+  }
+}

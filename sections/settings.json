@@ -1,0 +1,54 @@
+{
+  "section_id": "settings",
+  "version": 2,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "Opening the Settings Menu" },
+      { "type": "paragraph", "text": "From any mode screen, press the Front button until the Settings mode icon (gear symbol) appears. Press the Front button once more to enter the menu. Use the Middle button to scroll through options; press the Front button to confirm a selection. Press the Rear button to step back one level or to exit the menu." },
+      { "type": "heading",   "text": "Video Settings" },
+      { "type": "paragraph", "text": "Resolution: 1080p / 960p / 720p / WVGA. Frame Rate: choices depend on the selected resolution (25, 30, 48, 50, or 60 fps). FOV (Field of View): 90° / 115° / 140°. Bit Rate: High / Mid / Low. EIS (Electronic Image Stabilisation): On / Off. HDR: On / Off (1080p only)." },
+      { "type": "heading",   "text": "Photo Settings" },
+      { "type": "paragraph", "text": "Photo Resolution: 4 MP / 8 MP / 12 MP. Self-Timer: Off / 2 s / 10 s. Burst: off, or a configured burst count. Timelapse Interval: the time between captures in Photo Timelapse mode." },
+      { "type": "heading",   "text": "Audio Settings" },
+      { "type": "paragraph", "text": "Microphone Sensitivity: 0 (mute) to 5. Speaker Volume: Off / Low / Mid / High. Adjusting sensitivity down reduces wind and engine noise during high-speed recording." },
+      { "type": "heading",   "text": "Dash Cam Settings" },
+      { "type": "paragraph", "text": "Dash Cam Mode: On / Off. Dash Cam Interval: 30 s / 1 min / 2 min / 5 min (sets the length of each loop clip). Event Detection: On / Off (requires Dash Cam Mode)." },
+      { "type": "heading",   "text": "Advanced and System Settings" },
+      { "type": "paragraph", "text": "Video-Lapse: On / Off; Video-Lapse Interval (0.5 s to 30 s). Clone Mode: Off / Master / Slave; Clone Group (1–4). Instant On: On / Off. Wi-Fi Password: change the default 1234567890 to a custom value. Date / Time: set the internal clock manually (used in file timestamps). TV Mode: NTSC / PAL. Language: choose the camera's menu language. Auto Power Off: Off / 1 min / 3 min / 5 min. Format Card: erases all content on the microSD card. Restore Defaults: resets all settings to factory values (does not erase the memory card). Firmware Version: displays the currently installed firmware version number." },
+      { "type": "heading",   "text": "Quick-Access Tip" },
+      { "type": "paragraph", "text": "In Video mode, hold the Middle button for two seconds to toggle Dash Cam Mode on or off without entering the full Settings menu." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "설정 메뉴 열기" },
+      { "type": "paragraph", "text": "어느 모드 화면에서든 앞 버튼을 눌러 설정 모드 아이콘(톱니바퀴)이 나타날 때까지 이동하세요. 앞 버튼을 한 번 더 눌러 메뉴에 진입합니다. 중앙 버튼으로 옵션을 스크롤하고 앞 버튼으로 선택을 확인합니다. 뒤 버튼으로 한 단계 뒤로 가거나 메뉴를 종료합니다." },
+      { "type": "heading",   "text": "동영상 설정" },
+      { "type": "paragraph", "text": "해상도: 1080p / 960p / 720p / WVGA. 프레임레이트: 선택한 해상도에 따라 25, 30, 48, 50 또는 60fps. 화각(FOV): 90° / 115° / 140°. 비트레이트: 높음 / 중간 / 낮음. EIS(전자 이미지 손떨림 보정): 켬 / 끔. HDR: 켬 / 끔 (1080p 전용)." },
+      { "type": "heading",   "text": "사진 설정" },
+      { "type": "paragraph", "text": "사진 해상도: 4MP / 8MP / 12MP. 셀프 타이머: 끔 / 2초 / 10초. 연속 촬영: 끔, 또는 설정된 연속 촬영 장수. 타임랩스 인터벌: 사진 타임랩스 모드에서 촬영 간격." },
+      { "type": "heading",   "text": "오디오 설정" },
+      { "type": "paragraph", "text": "마이크 감도: 0(음소거)~5. 스피커 볼륨: 끔 / 낮음 / 중간 / 높음. 고속 녹화 시 감도를 낮추면 바람 소음과 엔진 소음을 줄일 수 있습니다." },
+      { "type": "heading",   "text": "대시캠 설정" },
+      { "type": "paragraph", "text": "대시캠 모드: 켬 / 끔. 대시캠 인터벌: 30초 / 1분 / 2분 / 5분 (각 루프 클립 길이 설정). 이벤트 감지: 켬 / 끔 (대시캠 모드 필요)." },
+      { "type": "heading",   "text": "고급 및 시스템 설정" },
+      { "type": "paragraph", "text": "비디오랩스: 켬 / 끔; 비디오랩스 인터벌(0.5초~30초). 클론 모드: 끔 / 마스터 / 슬레이브; 클론 그룹(1~4). 즉시 시작: 켬 / 끔. Wi-Fi 비밀번호: 기본값(1234567890)을 변경. 날짜/시간: 내부 시계 수동 설정(파일 타임스탬프에 사용). TV 모드: NTSC / PAL. 언어: 카메라 메뉴 언어 선택. 자동 전원 끄기: 끔 / 1분 / 3분 / 5분. 카드 포맷: microSD 카드의 모든 내용 삭제. 기본값 복원: 모든 설정을 공장 초기값으로 재설정(메모리 카드는 삭제하지 않음). 펌웨어 버전: 현재 설치된 펌웨어 버전 표시." },
+      { "type": "heading",   "text": "빠른 접근 팁" },
+      { "type": "paragraph", "text": "동영상 모드에서 중앙 버튼을 2초간 길게 누르면 전체 설정 메뉴에 진입하지 않고 대시캠 모드를 빠르게 켜거나 끌 수 있습니다." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Открытие меню настроек" },
+      { "type": "paragraph", "text": "На любом экране режима нажимайте переднюю кнопку, пока не появится значок режима настроек (шестерёнка). Нажмите переднюю кнопку ещё раз для входа в меню. Средняя кнопка прокручивает список параметров; передняя кнопка подтверждает выбор. Задняя кнопка — шаг назад или выход из меню." },
+      { "type": "heading",   "text": "Настройки видео" },
+      { "type": "paragraph", "text": "Разрешение: 1080p / 960p / 720p / WVGA. Частота кадров: зависит от выбранного разрешения (25, 30, 48, 50 или 60 кадров в секунду). FOV (угол обзора): 90° / 115° / 140°. Битрейт: High / Mid / Low. EIS (электронная стабилизация): Вкл / Выкл. HDR: Вкл / Выкл (только для 1080p)." },
+      { "type": "heading",   "text": "Настройки фото" },
+      { "type": "paragraph", "text": "Разрешение фото: 4 МП / 8 МП / 12 МП. Автоспуск: Выкл / 2 с / 10 с. Серийная съёмка: выкл или настроенное количество кадров. Интервал таймлапса: время между снимками в режиме фотографического таймлапса." },
+      { "type": "heading",   "text": "Настройки звука" },
+      { "type": "paragraph", "text": "Чувствительность микрофона: 0 (отключён) до 5. Громкость динамика: Выкл / Низкая / Средняя / Высокая. Снижение чувствительности уменьшает шум ветра и двигателя при скоростной записи." },
+      { "type": "heading",   "text": "Настройки видеорегистратора" },
+      { "type": "paragraph", "text": "Режим видеорегистратора: Вкл / Выкл. Интервал Dash Cam: 30 с / 1 мин / 2 мин / 5 мин (длина каждого клипа цикличной записи). Определение событий: Вкл / Выкл (требует режима видеорегистратора)." },
+      { "type": "heading",   "text": "Расширенные и системные настройки" },
+      { "type": "paragraph", "text": "Video-Lapse: Вкл / Выкл; интервал Video-Lapse (0,5–30 с). Clone Mode: Выкл / Master / Slave; Clone Group (1–4). Instant On: Вкл / Выкл. Пароль Wi-Fi: изменить значение по умолчанию (1234567890). Дата/Время: ручная установка внутренних часов (используется в метках времени файлов). ТВ-стандарт: NTSC / PAL. Язык: язык меню камеры. Автовыключение: Выкл / 1 мин / 3 мин / 5 мин. Форматирование карты: удаляет всё содержимое microSD. Сброс настроек: возвращает все параметры к заводским значениям (карта памяти не очищается). Версия прошивки: отображает номер текущей установленной прошивки." },
+      { "type": "heading",   "text": "Быстрый доступ" },
+      { "type": "paragraph", "text": "В режиме видео удержите среднюю кнопку две секунды, чтобы быстро включить или выключить режим видеорегистратора, не входя в полное меню настроек." }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "section_id": "in_use",
+  "version": 2,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "Know Your Camera" },
+      { "type": "paragraph", "text": "The Ghost XL has three buttons on its body. The Front button is the primary action button — it powers the camera on, cycles through recording modes, and starts or stops a recording. The Middle button scrolls through settings options. The Rear button activates Wi-Fi with a long press." },
+      { "type": "paragraph", "text": "Other key parts: the Status LED (top of the camera), the colour LCD screen (rear), the rotating lens (front), the Lens Marker (a small notch on the lens ring used as an orientation reference), the microSD card slot, and the 3.5 mm AUX port for external power and microphone." },
+      { "type": "heading",   "text": "Powering On and Off" },
+      { "type": "paragraph", "text": "Press the Front button once to power on. The LCD screen lights up with a welcome display. To power off, press and hold the Front button for three seconds. The camera finishes saving any in-progress recording before shutting down." },
+      { "type": "heading",   "text": "Switching Modes" },
+      { "type": "paragraph", "text": "From any standby screen, press the Front button to step through the available modes: Video, Photo, Timelapse, Photo Burst, and Settings. The current mode is shown by an icon in the top-left corner of the screen and by the colour of the Status LED." },
+      { "type": "heading",   "text": "Recording Video" },
+      { "type": "paragraph", "text": "In Video mode (green LED), press the Front button to start recording. The LED switches to flashing red while recording. Press the Front button again to stop. Files are saved as MP4 in the DCIM folder on the memory card." },
+      { "type": "heading",   "text": "Taking Photos" },
+      { "type": "paragraph", "text": "In Photo mode, press the Front button to capture a still image. The screen and LED briefly flash red to confirm the shot. You can adjust resolution (4, 8, or 12 MP), exposure, and ISO in the Settings menu." },
+      { "type": "heading",   "text": "Rotating the Lens" },
+      { "type": "paragraph", "text": "The lens rotates up to 300°. Grip the ribbed lens ring and turn by hand to frame your shot without moving the camera body. The Lens Marker serves as the 'up' reference — keep it pointing upward for a level horizon." },
+      { "type": "heading",   "text": "Status LED at a Glance" },
+      { "type": "paragraph", "text": "Green solid: standby, Video mode. Red flashing: recording in progress. The LCD screen always mirrors the current mode and recording state." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "카메라 살펴보기" },
+      { "type": "paragraph", "text": "Ghost XL에는 세 개의 버튼이 있습니다. 앞 버튼은 주요 기능 버튼으로 전원 켜기/끄기, 모드 전환, 녹화 시작/정지에 사용됩니다. 중앙 버튼은 설정 항목을 탐색하는 데 사용됩니다. 뒤 버튼을 길게 누르면 Wi-Fi가 활성화됩니다." },
+      { "type": "paragraph", "text": "주요 구성 요소: 상태 LED(카메라 상단), 컬러 LCD 화면(후면), 회전 렌즈(전면), 렌즈 마커(방향 기준점인 렌즈 링의 작은 홈), microSD 카드 슬롯, 외부 전원 및 마이크용 3.5mm AUX 포트." },
+      { "type": "heading",   "text": "전원 켜기 및 끄기" },
+      { "type": "paragraph", "text": "앞 버튼을 한 번 눌러 전원을 켭니다. LCD 화면에 시작 화면이 표시됩니다. 전원을 끄려면 앞 버튼을 3초 동안 길게 누릅니다. 카메라는 진행 중인 녹화를 저장한 후 종료됩니다." },
+      { "type": "heading",   "text": "모드 전환" },
+      { "type": "paragraph", "text": "대기 화면에서 앞 버튼을 눌러 동영상, 사진, 타임랩스, 연속 촬영, 설정 모드를 순서대로 전환합니다. 현재 모드는 화면 왼쪽 상단의 아이콘과 상태 LED 색상으로 확인할 수 있습니다." },
+      { "type": "heading",   "text": "동영상 녹화" },
+      { "type": "paragraph", "text": "동영상 모드(녹색 LED)에서 앞 버튼을 눌러 녹화를 시작합니다. 녹화 중에는 LED가 빨간색으로 깜박입니다. 앞 버튼을 다시 누르면 녹화가 중지되고 파일이 저장됩니다. 동영상은 메모리 카드의 DCIM 폴더에 MP4 형식으로 저장됩니다." },
+      { "type": "heading",   "text": "사진 촬영" },
+      { "type": "paragraph", "text": "사진 모드에서 앞 버튼을 눌러 정지 화상을 촬영합니다. 화면과 LED가 잠깐 빨간색으로 깜박여 촬영을 확인합니다. 해상도(4, 8, 12MP), 노출, ISO는 설정 메뉴에서 조정할 수 있습니다." },
+      { "type": "heading",   "text": "렌즈 회전" },
+      { "type": "paragraph", "text": "렌즈는 최대 300° 회전합니다. 고무 처리된 렌즈 링을 손으로 잡고 돌려 카메라 본체를 움직이지 않고도 앵글을 조정할 수 있습니다. 렌즈 마커는 '위쪽' 기준점으로, 수평 구도를 맞출 때 위를 향하도록 유지하세요." },
+      { "type": "heading",   "text": "상태 LED 한눈에 보기" },
+      { "type": "paragraph", "text": "녹색 점등: 대기 중(동영상 모드). 빨간색 점멸: 녹화 진행 중. LCD 화면에는 현재 모드와 녹화 상태가 항상 표시됩니다." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Знакомство с камерой" },
+      { "type": "paragraph", "text": "На корпусе Ghost XL расположены три кнопки. Передняя кнопка (Front) — основная: она включает камеру, переключает режимы и запускает или останавливает запись. Средняя кнопка (Middle) используется для навигации по параметрам настроек. Долгое нажатие на заднюю кнопку (Rear) включает Wi-Fi." },
+      { "type": "paragraph", "text": "Основные элементы: светодиод состояния (сверху корпуса), цветной ЖК-экран (сзади), поворотный объектив (спереди), метка объектива (небольшой выступ на кольце объектива, служащий ориентиром «вверх»), слот для microSD-карты и порт 3,5 мм AUX для внешнего питания и микрофона." },
+      { "type": "heading",   "text": "Включение и выключение" },
+      { "type": "paragraph", "text": "Нажмите переднюю кнопку один раз, чтобы включить камеру. На ЖК-экране появится приветственный экран. Чтобы выключить камеру, нажмите и удерживайте переднюю кнопку три секунды. Перед выключением камера завершает и сохраняет текущую запись." },
+      { "type": "heading",   "text": "Переключение режимов" },
+      { "type": "paragraph", "text": "На экране ожидания нажимайте переднюю кнопку для последовательного переключения режимов: Видео, Фото, Таймлапс, Серийная съёмка и Настройки. Текущий режим отображается значком в левом верхнем углу экрана и цветом светодиода состояния." },
+      { "type": "heading",   "text": "Видеозапись" },
+      { "type": "paragraph", "text": "В режиме видео (зелёный светодиод) нажмите переднюю кнопку, чтобы начать запись. Светодиод начнёт мигать красным. Нажмите переднюю кнопку ещё раз, чтобы остановить запись и сохранить файл. Видео сохраняются в формате MP4 в папке DCIM на карте памяти." },
+      { "type": "heading",   "text": "Фотосъёмка" },
+      { "type": "paragraph", "text": "В режиме фото нажмите переднюю кнопку для съёмки. Экран и светодиод кратко мигнут красным, подтверждая снимок. Разрешение (4, 8 или 12 МП), экспозицию и ISO можно настроить в меню настроек." },
+      { "type": "heading",   "text": "Поворот объектива" },
+      { "type": "paragraph", "text": "Объектив поворачивается на 300°. Возьмитесь за рифлёное кольцо объектива и поворачивайте его рукой, не меняя положение корпуса камеры в креплении. Метка объектива (Lens Marker) — ориентир «вверх»: держите её направленной вверх для ровного горизонта." },
+      { "type": "heading",   "text": "Светодиод состояния" },
+      { "type": "paragraph", "text": "Зелёный (горит): режим ожидания, режим видео. Красный (мигает): идёт запись. Текущий режим и статус записи всегда отображаются на ЖК-экране." }
+    ]
+  }
+}

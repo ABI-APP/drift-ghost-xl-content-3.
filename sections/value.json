@@ -1,0 +1,45 @@
+{
+  "section_id": "value",
+  "version": 2,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "What's in the Box" },
+      { "type": "paragraph", "text": "Every Ghost XL ships with: the camera body, a Universal Clip, a Curved Adhesive Mount, a Flat Adhesive Mount, a TRS Audio Adapter Cable (external microphone/power), a TRS Power Cable (for vehicle connection), and a USB charging cable. No separate waterproof housing is needed — the camera is IPX7 rated as supplied." },
+      { "type": "heading",   "text": "Key Capabilities" },
+      { "type": "paragraph", "text": "The Ghost XL records full HD 1080p video at up to 30 fps and has a 300° rotating lens, so you can aim the lens independently of the camera mount. The internal 3000 mAh battery is rated for up to nine hours of continuous recording — enough for a full day of riding without carrying a power bank." },
+      { "type": "paragraph", "text": "The camera is IPX7 waterproof to one metre with no housing, making it suitable for rain, splashing, and brief submersion. Dash Cam Mode adds continuous loop recording with automatic start and stop via vehicle power, and Event Detection protects critical footage from being overwritten." },
+      { "type": "heading",   "text": "Drift Life App" },
+      { "type": "paragraph", "text": "The free Drift Life app connects to the camera over Wi-Fi. Use it to preview the shot, change settings, review footage, and live stream from your mobile device. The default Wi-Fi password is 1234567890 and can be changed through the camera settings." },
+      { "type": "heading",   "text": "Optional Accessories" },
+      { "type": "paragraph", "text": "Drift offers a range of mounts: handlebar mount (fits 19–36 mm bars), suction cup mount (for smooth surfaces like windshields), and pivot mount (adjustable to almost any angle). A 3.5 mm external microphone and a waterproof TRS audio adapter are also available separately for improved audio capture in wet conditions." },
+      { "type": "heading",   "text": "Current Pricing" },
+      { "type": "paragraph", "text": "Check the official Drift Innovation website for current pricing and regional availability. Prices shown in third-party stores may differ from the manufacturer's current recommended price." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "구성품" },
+      { "type": "paragraph", "text": "Ghost XL 구성품: 카메라 본체, 유니버설 클립, 곡면 접착 마운트, 평면 접착 마운트, TRS 오디오 어댑터 케이블(외부 마이크/전원용), TRS 전원 케이블(차량 연결용), USB 충전 케이블. 별도의 방수 케이스 없이도 IPX7 방수 등급이 적용됩니다." },
+      { "type": "heading",   "text": "주요 기능" },
+      { "type": "paragraph", "text": "Ghost XL은 최대 30fps의 풀 HD 1080p 동영상을 촬영하며, 300° 회전 렌즈로 마운트 위치와 관계없이 앵글을 자유롭게 조정할 수 있습니다. 내장 3000mAh 배터리는 최대 9시간 연속 녹화를 지원해 하루 종일 보조 배터리 없이 사용할 수 있습니다." },
+      { "type": "paragraph", "text": "케이스 없이 수심 1m까지 IPX7 방수가 적용되어 비, 물보라, 짧은 수중 사용에 적합합니다. 대시캠 모드는 차량 전원을 이용한 자동 시작/종료와 연속 루프 녹화를 지원하며, 이벤트 감지 기능으로 중요한 영상을 보호합니다." },
+      { "type": "heading",   "text": "Drift Life 앱" },
+      { "type": "paragraph", "text": "무료 Drift Life 앱을 통해 Wi-Fi로 카메라에 연결하면 앵글 미리 보기, 설정 변경, 영상 확인, 모바일 라이브 스트리밍이 가능합니다. 기본 Wi-Fi 비밀번호는 1234567890이며 카메라 설정에서 변경할 수 있습니다." },
+      { "type": "heading",   "text": "선택 액세서리" },
+      { "type": "paragraph", "text": "Drift는 다양한 마운트를 제공합니다: 핸들바 마운트(19~36mm 핸들 호환), 흡착 마운트(유리나 매끄러운 표면용), 피벗 마운트(다양한 각도 조절 가능). 3.5mm 외부 마이크와 방수 TRS 오디오 어댑터는 습한 환경에서의 고품질 음성 녹음을 위해 별도로 구매할 수 있습니다." },
+      { "type": "heading",   "text": "현재 가격" },
+      { "type": "paragraph", "text": "최신 가격과 지역별 구매 가능 여부는 Drift Innovation 공식 웹사이트에서 확인하세요. 제3자 쇼핑몰의 가격은 제조사 권장 가격과 다를 수 있습니다." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Комплект поставки" },
+      { "type": "paragraph", "text": "В комплекте с Ghost XL поставляются: корпус камеры, универсальная клипса (Universal Clip), изогнутое клейкое крепление, плоское клейкое крепление, кабель-адаптер TRS (для внешнего микрофона и питания), кабель питания TRS (для подключения к автомобилю) и USB-кабель для зарядки. Отдельный защитный корпус не нужен — камера имеет класс защиты IPX7 в штатной комплектации." },
+      { "type": "heading",   "text": "Ключевые возможности" },
+      { "type": "paragraph", "text": "Ghost XL записывает видео Full HD 1080p со скоростью до 30 кадров в секунду. Объектив поворачивается на 300°, что позволяет выбирать угол съёмки независимо от положения крепления. Встроенный аккумулятор ёмкостью 3000 мАч рассчитан на до девяти часов непрерывной записи — хватит на полный день съёмки без дополнительного внешнего аккумулятора." },
+      { "type": "paragraph", "text": "Камера водонепроницаема (IPX7) на глубине до одного метра без дополнительного корпуса — подходит для съёмки в дождь, при брызгах и кратковременном погружении. Режим видеорегистратора обеспечивает цикличную запись с автоматическим включением/выключением от питания автомобиля. Определение событий защищает важные записи от перезаписи." },
+      { "type": "heading",   "text": "Приложение Drift Life" },
+      { "type": "paragraph", "text": "Бесплатное приложение Drift Life подключается к камере по Wi-Fi. С его помощью можно проверять кадр, менять настройки, просматривать отснятый материал и вести прямую трансляцию с мобильного устройства. Стандартный пароль Wi-Fi — 1234567890; его можно изменить в настройках камеры." },
+      { "type": "heading",   "text": "Аксессуары" },
+      { "type": "paragraph", "text": "Drift предлагает широкий выбор креплений: крепление на руль (для труб диаметром 19–36 мм), присоска (для гладких поверхностей — лобовых стёкол и кузова), поворотное крепление (регулируется практически под любой угол). Внешний микрофон 3,5 мм и водонепроницаемый TRS-адаптер доступны отдельно для записи качественного звука в сырую погоду." },
+      { "type": "heading",   "text": "Актуальные цены" },
+      { "type": "paragraph", "text": "Актуальные цены и наличие товара в вашем регионе уточняйте на официальном сайте Drift Innovation. Цены в сторонних магазинах могут отличаться от текущих рекомендованных розничных цен производителя." }
+    ]
+  }
+}

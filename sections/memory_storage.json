@@ -1,0 +1,48 @@
+{
+  "section_id": "memory_storage",
+  "version": 2,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "Supported Memory Cards" },
+      { "type": "paragraph", "text": "The Ghost XL requires a microSD card (Class 10 or higher) for all recording. The camera has no internal storage for video or photos. Officially supported capacities are 4 GB to 128 GB. Cards above 128 GB are not officially supported and may not function reliably. For 4K-equivalent bit rates and continuous Dash Cam recording, use a card rated UHS-I or higher." },
+      { "type": "heading",   "text": "Formatting the Card" },
+      { "type": "paragraph", "text": "Always format a new card in the camera before first use: Settings → Format Card → Confirm. Formatting on the camera creates the correct file system and folder structure. Do not format the card on a computer if the card has already been formatted by the camera — this can disrupt the folder layout. The Format Card option permanently erases all data on the card." },
+      { "type": "heading",   "text": "DCIM Folder Structure" },
+      { "type": "paragraph", "text": "Videos are saved to DCIM/100MEDIA/ on the card as MP4 files. Photos are saved to the same folder as JPEG files. Each clip or photo is numbered sequentially. When you connect the camera to a computer via USB and select Mass Storage mode on the LCD, the card appears as a removable drive and you can browse the DCIM folder directly." },
+      { "type": "heading",   "text": "THM Thumbnail Files" },
+      { "type": "paragraph", "text": "For every video clip, the camera creates a small companion THM file in the same folder. THM files are low-resolution thumbnail images used by the camera to display previews. They are not the video itself. When copying footage to a computer, you can ignore THM files; deleting them does not affect the video." },
+      { "type": "heading",   "text": "EVENT Folder" },
+      { "type": "paragraph", "text": "When Event Detection is active in Dash Cam Mode, clips triggered by a detected impact are saved to DCIM/EVENT/ instead of the main MEDIA folder. Clips in the EVENT folder are protected from overwriting by the Dash Cam loop. To free up space, review and delete EVENT clips manually from the camera's gallery or via a computer." },
+      { "type": "heading",   "text": "Managing Storage" },
+      { "type": "paragraph", "text": "The camera displays the remaining recording time on the standby screen. When the card is almost full in Dash Cam Mode, the oldest non-protected clips are overwritten automatically. Outside Dash Cam Mode, the camera stops recording when the card is full. Regularly back up footage to a computer or external drive, then format the card in the camera for best performance." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "지원 메모리 카드" },
+      { "type": "paragraph", "text": "Ghost XL은 모든 녹화에 microSD 카드(Class 10 이상)가 필요합니다. 카메라에는 동영상이나 사진을 위한 내부 저장소가 없습니다. 공식 지원 용량은 4GB~128GB입니다. 128GB 초과 카드는 공식적으로 지원되지 않으며 안정적으로 작동하지 않을 수 있습니다. 연속 대시캠 녹화에는 UHS-I 이상의 등급 카드를 사용하세요." },
+      { "type": "heading",   "text": "카드 포맷하기" },
+      { "type": "paragraph", "text": "새 카드는 처음 사용하기 전에 반드시 카메라에서 포맷하세요: 설정 → 카드 포맷 → 확인. 카메라에서 포맷하면 올바른 파일 시스템과 폴더 구조가 생성됩니다. 카메라가 이미 포맷한 카드를 컴퓨터에서 다시 포맷하면 폴더 레이아웃이 틀어질 수 있습니다. 카드 포맷 옵션은 카드의 모든 데이터를 영구적으로 삭제합니다." },
+      { "type": "heading",   "text": "DCIM 폴더 구조" },
+      { "type": "paragraph", "text": "동영상은 카드의 DCIM/100MEDIA/ 폴더에 MP4 파일로 저장됩니다. 사진도 같은 폴더에 JPEG 파일로 저장됩니다. 각 클립이나 사진은 순서대로 번호가 부여됩니다. 카메라를 USB로 컴퓨터에 연결하고 LCD에서 대용량 저장소 모드를 선택하면 카드가 이동식 드라이브로 표시되어 DCIM 폴더를 직접 탐색할 수 있습니다." },
+      { "type": "heading",   "text": "THM 썸네일 파일" },
+      { "type": "paragraph", "text": "모든 동영상 클립마다 같은 폴더에 소용량의 THM 파일이 함께 생성됩니다. THM 파일은 카메라가 미리보기를 표시하는 데 사용하는 저해상도 썸네일 이미지로, 동영상 자체가 아닙니다. 영상을 컴퓨터로 복사할 때 THM 파일은 무시해도 되며, 삭제해도 동영상에는 영향이 없습니다." },
+      { "type": "heading",   "text": "EVENT 폴더" },
+      { "type": "paragraph", "text": "대시캠 모드에서 이벤트 감지가 활성화된 경우, 충격이 감지되어 저장된 클립은 MEDIA 폴더 대신 DCIM/EVENT/ 폴더에 저장됩니다. EVENT 폴더의 클립은 대시캠 루프에 의한 덮어쓰기로부터 보호됩니다. 저장 공간을 확보하려면 카메라 갤러리나 컴퓨터를 통해 EVENT 클립을 수동으로 검토하고 삭제하세요." },
+      { "type": "heading",   "text": "저장소 관리" },
+      { "type": "paragraph", "text": "카메라 대기 화면에는 남은 녹화 시간이 표시됩니다. 대시캠 모드에서 카드가 거의 가득 차면 보호되지 않은 가장 오래된 클립이 자동으로 덮어써집니다. 대시캠 모드 외에서는 카드가 가득 차면 녹화가 중단됩니다. 최적의 성능을 위해 정기적으로 영상을 컴퓨터나 외장 드라이브에 백업한 후 카메라에서 카드를 포맷하세요." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Поддерживаемые карты памяти" },
+      { "type": "paragraph", "text": "Ghost XL требует карту microSD (Class 10 или выше) для всех записей. Встроенного хранилища для видео и фото у камеры нет. Официально поддерживаются карты ёмкостью от 4 ГБ до 128 ГБ. Карты свыше 128 ГБ официально не поддерживаются и могут работать нестабильно. Для непрерывной записи в режиме видеорегистратора используйте карту класса UHS-I или выше." },
+      { "type": "heading",   "text": "Форматирование карты" },
+      { "type": "paragraph", "text": "Всегда форматируйте новую карту в камере перед первым использованием: Настройки → Format Card → Подтвердить. Форматирование в камере создаёт правильную файловую систему и структуру папок. Не форматируйте карту на компьютере, если она уже была отформатирована в камере — это может нарушить структуру папок. Format Card безвозвратно удаляет все данные с карты." },
+      { "type": "heading",   "text": "Структура папок DCIM" },
+      { "type": "paragraph", "text": "Видеозаписи сохраняются в DCIM/100MEDIA/ в виде файлов MP4. Фотографии сохраняются там же в формате JPEG. Каждый клип и каждый снимок нумеруются последовательно. Подключите камеру к компьютеру по USB, выберите Mass Storage на экране камеры — карта появится как съёмный диск, и вы сможете просматривать папку DCIM напрямую." },
+      { "type": "heading",   "text": "Файлы-превью THM" },
+      { "type": "paragraph", "text": "Для каждого видеоклипа камера создаёт небольшой файл THM в той же папке. Это низкоразрешённые миниатюры, используемые камерой для отображения превью — сам видеофайл здесь не хранится. При копировании материала на компьютер файлы THM можно игнорировать; их удаление не влияет на видео." },
+      { "type": "heading",   "text": "Папка EVENT" },
+      { "type": "paragraph", "text": "При включённом определении событий в режиме видеорегистратора клипы, сохранённые после обнаруженного удара, помещаются в DCIM/EVENT/ вместо основной папки MEDIA. Клипы в EVENT защищены от перезаписи при цикличной записи. Чтобы освободить место, проверяйте и удаляйте клипы EVENT вручную — через галерею камеры или с компьютера." },
+      { "type": "heading",   "text": "Управление хранилищем" },
+      { "type": "paragraph", "text": "На экране ожидания камеры отображается оставшееся время записи. В режиме видеорегистратора при почти заполненной карте самые старые незащищённые клипы перезаписываются автоматически. Вне режима видеорегистратора запись прекращается, когда карта заполнена. Для лучшей производительности регулярно переносите записи на компьютер или внешний накопитель, после чего форматируйте карту в камере." }
+    ]
+  }
+}

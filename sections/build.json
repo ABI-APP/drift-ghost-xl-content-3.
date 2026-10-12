@@ -1,0 +1,45 @@
+{
+  "section_id": "build",
+  "version": 2,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "Dimensions and Weight" },
+      { "type": "paragraph", "text": "The Ghost XL measures 47 mm wide by 72 mm long and weighs 127 g. Its slim, aerodynamic side profile sits flat against a helmet surface without creating significant wind drag at speed." },
+      { "type": "heading",   "text": "Waterproofing" },
+      { "type": "paragraph", "text": "The camera carries an IPX7 waterproof rating, meaning it can withstand submersion in up to one metre of water. No housing, case, or cover is needed for normal outdoor use in rain or at a water crossing." },
+      { "type": "paragraph", "text": "Important: this full waterproof protection applies only when the USB door is fully closed and no adapters are plugged in. When the TRS audio or power adapter is connected to the 3.5 mm port, the camera is weatherproof (splash-resistant) rather than fully waterproof. Remove the adapter before exposing the camera to water deeper than light rain." },
+      { "type": "heading",   "text": "Rotating Lens" },
+      { "type": "paragraph", "text": "The lens rotates 300° by hand. Because the lens moves independently of the body, you can mount the camera in whichever position the surface demands — sideways, upside down, or at an angle — then rotate the lens to a level framing. The focal range is 0.5 m to infinity, making it suitable for close-up detail as well as wide landscape shots." },
+      { "type": "heading",   "text": "Controls" },
+      { "type": "paragraph", "text": "The three physical buttons are large and raised, designed to be operated while wearing motorcycle or ski gloves. The LCD screen provides visual confirmation of mode and recording state, so you can verify the camera is operating without removing your gloves." },
+      { "type": "heading",   "text": "Connections" },
+      { "type": "paragraph", "text": "A 5-pin micro USB port handles both charging and PC/Mac data transfer. The 3.5 mm AUX port accepts the TRS power cable for continuous vehicle power or the TRS audio adapter for an external microphone. Only one accessory can be connected to the AUX port at a time." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "크기와 무게" },
+      { "type": "paragraph", "text": "Ghost XL의 크기는 너비 47mm, 길이 72mm이며 무게는 127g입니다. 얇은 유선형 측면 프로파일 덕분에 헬멧 표면에 밀착되어 고속 주행 시 바람 저항을 최소화합니다." },
+      { "type": "heading",   "text": "방수 성능" },
+      { "type": "paragraph", "text": "IPX7 방수 등급을 갖추고 있어 수심 최대 1m에서의 침수를 견딜 수 있습니다. 비나 물을 건너는 일반적인 야외 사용 시 별도의 하우징, 케이스, 커버가 필요하지 않습니다." },
+      { "type": "paragraph", "text": "주의: 완전 방수 보호는 USB 커버가 완전히 닫혀 있고 어댑터가 연결되지 않은 경우에만 적용됩니다. 3.5mm 포트에 TRS 오디오 또는 전원 어댑터가 연결된 경우 카메라는 방수가 아닌 생활 방수(물보라 저항) 수준이 됩니다. 강한 비 이상의 물에 노출되기 전에는 어댑터를 분리하세요." },
+      { "type": "heading",   "text": "회전 렌즈" },
+      { "type": "paragraph", "text": "렌즈는 손으로 300° 회전합니다. 렌즈가 본체와 독립적으로 움직이기 때문에 옆면, 뒤집기, 비스듬한 각도 등 표면에 따라 카메라를 어떤 방향으로도 장착한 후 렌즈를 돌려 수평 앵글을 맞출 수 있습니다. 초점 거리는 0.5m~무한대로 클로즈업과 와이드 풍경 모두 적합합니다." },
+      { "type": "heading",   "text": "조작부" },
+      { "type": "paragraph", "text": "세 개의 물리 버튼은 크고 돌출되어 있어 오토바이 또는 스키 장갑을 착용한 상태에서도 조작할 수 있도록 설계되었습니다. LCD 화면으로 모드와 녹화 상태를 시각적으로 확인할 수 있어 장갑을 벗지 않고도 카메라 작동을 확인할 수 있습니다." },
+      { "type": "heading",   "text": "연결 포트" },
+      { "type": "paragraph", "text": "5핀 마이크로 USB 포트로 충전과 PC/Mac 데이터 전송이 모두 가능합니다. 3.5mm AUX 포트에는 차량 전원 연결을 위한 TRS 전원 케이블이나 외부 마이크 연결을 위한 TRS 오디오 어댑터를 사용할 수 있습니다. AUX 포트에는 한 번에 하나의 액세서리만 연결할 수 있습니다." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Размеры и масса" },
+      { "type": "paragraph", "text": "Размеры Ghost XL: ширина 47 мм, длина 72 мм. Масса — 127 г. Тонкий обтекаемый профиль камеры прилегает к поверхности шлема и создаёт минимальное сопротивление воздуху на скорости." },
+      { "type": "heading",   "text": "Водонепроницаемость" },
+      { "type": "paragraph", "text": "Камера имеет класс защиты IPX7 — она выдерживает погружение на глубину до одного метра. Для использования под дождём, при брызгах или переезде через водоём дополнительный корпус, кейс или чехол не нужны." },
+      { "type": "paragraph", "text": "Важно: полная защита от воды действует только при закрытой крышке USB-порта и отсутствии подключённых адаптеров. Если к порту 3,5 мм подключён адаптер TRS (для аудио или питания), камера становится лишь брызгозащищённой, но не полностью водонепроницаемой. Отключите адаптер перед погружением в воду или интенсивным воздействием влаги." },
+      { "type": "heading",   "text": "Поворотный объектив" },
+      { "type": "paragraph", "text": "Объектив вращается рукой на 300°. Поскольку объектив движется независимо от корпуса, камеру можно крепить в любом удобном положении — боком, перевёрнуто или под углом — а затем повернуть объектив для ровного кадра. Диапазон фокусировки — от 0,5 м до бесконечности, что подходит как для крупных планов, так и для широкоугольной съёмки." },
+      { "type": "heading",   "text": "Кнопки управления" },
+      { "type": "paragraph", "text": "Три физические кнопки крупные и выступающие, они рассчитаны на нажатие в мотоциклетных или лыжных перчатках. ЖК-экран показывает текущий режим и статус записи, позволяя убедиться в работе камеры, не снимая перчатки." },
+      { "type": "heading",   "text": "Разъёмы" },
+      { "type": "paragraph", "text": "5-контактный порт micro USB используется для зарядки и подключения к компьютеру (PC/Mac). Порт 3,5 мм AUX позволяет подключить кабель питания TRS (для постоянного питания от автомобиля) или аудиоадаптер TRS (для внешнего микрофона). Одновременно к порту AUX можно подключить только один аксессуар." }
+    ]
+  }
+}

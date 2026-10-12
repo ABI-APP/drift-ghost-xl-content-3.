@@ -1,0 +1,48 @@
+{
+  "section_id": "photo",
+  "version": 2,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "Photo Mode" },
+      { "type": "paragraph", "text": "Switch to Photo mode by pressing the Front button from Video mode. The mode icon in the top-left of the LCD changes to the camera icon. Press the Front button to take a still photo. The screen and Status LED briefly flash to confirm the capture. Photos are saved as JPEG files in the DCIM folder on the memory card." },
+      { "type": "heading",   "text": "Photo Resolution" },
+      { "type": "paragraph", "text": "Three resolutions are available: 4 MP (2688 × 1512), 8 MP (3840 × 2160), and 12 MP (4608 × 2592). Higher resolution produces more detail but larger files. For most sharing purposes 8 MP is sufficient; use 12 MP when you plan to crop or print the image at a large size." },
+      { "type": "heading",   "text": "Self-Timer" },
+      { "type": "paragraph", "text": "The Self-Timer delays the shutter after pressing the button. Available delays are 2 seconds and 10 seconds. Enable it from the Settings menu before shooting. The timer is useful for group shots or for avoiding camera shake when the camera is on an unstable mount." },
+      { "type": "heading",   "text": "Photo Burst" },
+      { "type": "paragraph", "text": "Photo Burst captures a rapid sequence of still images with a single button press. This is useful for fast-action moments — jumping, racing, or wildlife — where a single shot might miss the peak moment. Configure the burst count and interval in Settings." },
+      { "type": "heading",   "text": "Timelapse (Photo)" },
+      { "type": "paragraph", "text": "Photo Timelapse captures still images at a fixed interval over a period of time. Set the interval in Settings, then start Timelapse mode and leave the camera running. The saved images can be assembled into a timelapse video in editing software. This differs from Video-Lapse, which records a timelapse video directly in-camera." },
+      { "type": "heading",   "text": "Exposure and ISO for Photos" },
+      { "type": "paragraph", "text": "The same Exposure (−2 to +2) and ISO (Auto, 100, 200, 400, 800) controls available in video mode apply in Photo mode as well. For static scenes in good light, fix ISO at 100 and use exposure adjustment to fine-tune brightness. In low light, raising ISO to 400 or 800 allows a properly exposed image but introduces digital grain." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "사진 모드" },
+      { "type": "paragraph", "text": "동영상 모드에서 앞 버튼을 눌러 사진 모드로 전환합니다. LCD 왼쪽 상단의 모드 아이콘이 카메라 모양으로 바뀝니다. 앞 버튼을 누르면 정지 화상이 촬영됩니다. 화면과 상태 LED가 잠깐 깜박여 촬영을 확인합니다. 사진은 메모리 카드의 DCIM 폴더에 JPEG 파일로 저장됩니다." },
+      { "type": "heading",   "text": "사진 해상도" },
+      { "type": "paragraph", "text": "세 가지 해상도를 선택할 수 있습니다: 4MP(2688×1512), 8MP(3840×2160), 12MP(4608×2592). 해상도가 높을수록 세부 묘사가 뛰어나지만 파일 크기도 커집니다. 대부분의 공유 목적에는 8MP로 충분하며, 이미지를 크롭하거나 대형 인화할 경우 12MP를 사용하세요." },
+      { "type": "heading",   "text": "셀프 타이머" },
+      { "type": "paragraph", "text": "셀프 타이머는 버튼을 누른 후 셔터를 지연시킵니다. 2초와 10초 지연을 선택할 수 있습니다. 촬영 전 설정 메뉴에서 활성화하세요. 단체 사진이나 불안정한 마운트에서의 카메라 흔들림을 방지할 때 유용합니다." },
+      { "type": "heading",   "text": "연속 촬영" },
+      { "type": "paragraph", "text": "버튼 한 번으로 빠르게 연속 사진을 촬영합니다. 점프, 경주, 야생 동물처럼 단 한 장으로는 최적의 순간을 포착하기 어려운 상황에 유용합니다. 설정에서 연속 촬영 장수와 인터벌을 설정하세요." },
+      { "type": "heading",   "text": "타임랩스(사진)" },
+      { "type": "paragraph", "text": "사진 타임랩스는 일정한 간격으로 정지 화상을 촬영합니다. 설정에서 인터벌을 지정한 후 타임랩스 모드를 시작하고 카메라를 그대로 두면 됩니다. 저장된 사진들은 편집 소프트웨어로 타임랩스 영상으로 조합할 수 있습니다. 이는 카메라 내에서 직접 타임랩스 동영상을 생성하는 비디오랩스(Video-Lapse)와 다릅니다." },
+      { "type": "heading",   "text": "사진 모드의 노출과 ISO" },
+      { "type": "paragraph", "text": "동영상 모드와 동일한 노출(-2~+2) 및 ISO(자동, 100, 200, 400, 800) 조정이 사진 모드에서도 적용됩니다. 밝은 환경의 정적인 장면에서는 ISO를 100으로 고정하고 노출 조정으로 밝기를 미세 조정하세요. 어두운 환경에서는 ISO를 400 또는 800으로 올리면 적절한 노출의 사진을 얻을 수 있지만 디지털 노이즈가 생깁니다." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Режим фото" },
+      { "type": "paragraph", "text": "Переключитесь в режим фото, нажав переднюю кнопку из режима видео. Значок режима в левом верхнем углу ЖК-экрана сменится на иконку фотоаппарата. Нажмите переднюю кнопку для съёмки. Экран и светодиод кратко мигнут, подтверждая снимок. Фотографии сохраняются в формате JPEG в папке DCIM на карте памяти." },
+      { "type": "heading",   "text": "Разрешение фото" },
+      { "type": "paragraph", "text": "Доступны три разрешения: 4 МП (2688 × 1512), 8 МП (3840 × 2160) и 12 МП (4608 × 2592). Более высокое разрешение даёт больше деталей, но и файлы крупнее. Для большинства задач хватает 8 МП; 12 МП используйте, когда планируете кадрировать или печатать снимок в большом формате." },
+      { "type": "heading",   "text": "Автоспуск (Self-Timer)" },
+      { "type": "paragraph", "text": "Автоспуск задерживает срабатывание затвора после нажатия кнопки. Доступные задержки — 2 и 10 секунд. Включите его в меню настроек перед съёмкой. Удобен для групповых снимков или чтобы избежать смазывания из-за дрожания при нестабильном креплении." },
+      { "type": "heading",   "text": "Серийная съёмка (Photo Burst)" },
+      { "type": "paragraph", "text": "Серийная съёмка делает несколько снимков подряд одним нажатием кнопки. Подходит для динамичных сцен — прыжков, гонок, съёмки животных, — когда один кадр может не поймать ключевой момент. Количество кадров и интервал настраиваются в меню настроек." },
+      { "type": "heading",   "text": "Таймлапс (фото)" },
+      { "type": "paragraph", "text": "Фотографический таймлапс снимает кадры через равные промежутки времени. Задайте интервал в настройках, запустите режим таймлапса и оставьте камеру работать. Полученные снимки можно смонтировать в таймлапс-видео в любом видеоредакторе. Это отличается от Video-Lapse, который записывает таймлапс-видео прямо в камере." },
+      { "type": "heading",   "text": "Экспозиция и ISO для фото" },
+      { "type": "paragraph", "text": "Те же параметры Exposure (от −2 до +2) и ISO (Авто, 100, 200, 400, 800), что доступны в режиме видео, работают и в режиме фото. При хорошем освещении статичных сцен фиксируйте ISO на 100 и подбирайте яркость регулировкой экспозиции. При слабом освещении увеличение ISO до 400 или 800 даст правильно экспонированный снимок, но добавит цифровой шум." }
+    ]
+  }
+}

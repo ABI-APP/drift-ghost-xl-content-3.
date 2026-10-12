@@ -1,0 +1,48 @@
+{
+  "section_id": "wifi_app",
+  "version": 2,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "Enabling Wi-Fi on the Camera" },
+      { "type": "paragraph", "text": "Hold the Rear button until the Wi-Fi icon appears on the LCD screen and the indicator confirms the network is active. The camera broadcasts its own Wi-Fi network — it does not connect to your home or mobile router. To disable Wi-Fi, hold the Rear button again." },
+      { "type": "heading",   "text": "Connecting Your Phone" },
+      { "type": "paragraph", "text": "1. Enable Wi-Fi on the camera (hold the Rear button). 2. On your phone, open the Wi-Fi settings and select the camera's network (the network name includes 'Drift' or your camera's name). 3. Enter the password — the default is 1234567890. 4. Once connected, open the Drift Life app. The app connects automatically." },
+      { "type": "heading",   "text": "Changing the Wi-Fi Password" },
+      { "type": "paragraph", "text": "To change the default password, go to Settings on the camera, scroll to Wi-Fi Password, and enter a new value. The new password must be exactly 10 characters. Remember the new password — if you forget it, you will need to restore the camera to factory defaults (Settings → Restore Defaults) to reset it to 1234567890." },
+      { "type": "heading",   "text": "Drift Life App Features" },
+      { "type": "paragraph", "text": "Live Preview: see the camera's field of view in real time on your phone before recording. Remote Control: start and stop recording, change mode, and take photos directly from the app. Settings: adjust resolution, frame rate, FOV, and other camera parameters from the app interface. Gallery: browse and download footage stored on the camera's memory card to your phone." },
+      { "type": "heading",   "text": "Downloading Drift Life" },
+      { "type": "paragraph", "text": "Drift Life is a free app available on both Android (Google Play) and iOS (App Store). Search for 'Drift Life' and install the version published by Drift Innovation." },
+      { "type": "heading",   "text": "Wi-Fi and Battery Use" },
+      { "type": "paragraph", "text": "Keeping Wi-Fi on while recording reduces battery life. If you do not need the live preview or remote control during a session, disable Wi-Fi to extend recording time. Wi-Fi is automatically disabled when the camera powers off." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "카메라에서 Wi-Fi 활성화하기" },
+      { "type": "paragraph", "text": "LCD 화면에 Wi-Fi 아이콘이 나타날 때까지 뒤 버튼을 길게 누르세요. 카메라는 자체 Wi-Fi 네트워크를 방송합니다 — 가정용 라우터나 모바일 라우터에 연결하는 것이 아닙니다. Wi-Fi를 끄려면 뒤 버튼을 다시 길게 누르세요." },
+      { "type": "heading",   "text": "스마트폰 연결하기" },
+      { "type": "paragraph", "text": "1. 카메라에서 Wi-Fi를 활성화합니다(뒤 버튼 길게 누르기). 2. 스마트폰에서 Wi-Fi 설정을 열고 카메라의 네트워크('Drift' 또는 카메라 이름이 포함된 이름)를 선택합니다. 3. 비밀번호를 입력합니다 — 기본값은 1234567890입니다. 4. 연결 후 Drift Life 앱을 실행하면 자동으로 연결됩니다." },
+      { "type": "heading",   "text": "Wi-Fi 비밀번호 변경하기" },
+      { "type": "paragraph", "text": "기본 비밀번호를 변경하려면 카메라 설정 메뉴에서 Wi-Fi 비밀번호로 이동하여 새 값을 입력하세요. 새 비밀번호는 정확히 10자리여야 합니다. 비밀번호를 잊어버리면 설정 → 기본값 복원을 통해 카메라를 초기화해야 1234567890으로 재설정됩니다." },
+      { "type": "heading",   "text": "Drift Life 앱 기능" },
+      { "type": "paragraph", "text": "라이브 미리보기: 녹화 전 카메라 화각을 스마트폰에서 실시간으로 확인합니다. 원격 제어: 앱에서 직접 녹화 시작/정지, 모드 변경, 사진 촬영. 설정: 앱 인터페이스에서 해상도, 프레임레이트, 화각 등 카메라 설정을 조정합니다. 갤러리: 카메라 메모리 카드에 저장된 영상을 탐색하고 스마트폰으로 다운로드합니다." },
+      { "type": "heading",   "text": "Drift Life 다운로드" },
+      { "type": "paragraph", "text": "Drift Life는 안드로이드(구글 플레이)와 iOS(앱 스토어) 모두에서 무료로 제공됩니다. 'Drift Life'를 검색하여 Drift Innovation이 배포한 버전을 설치하세요." },
+      { "type": "heading",   "text": "Wi-Fi와 배터리 사용" },
+      { "type": "paragraph", "text": "녹화 중 Wi-Fi를 켜두면 배터리 수명이 줄어듭니다. 세션 중에 라이브 미리보기나 원격 제어가 필요하지 않다면 Wi-Fi를 끄고 녹화 시간을 늘리세요. 카메라가 꺼지면 Wi-Fi는 자동으로 비활성화됩니다." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Включение Wi-Fi на камере" },
+      { "type": "paragraph", "text": "Удерживайте заднюю кнопку, пока на ЖК-экране не появится значок Wi-Fi и сеть не станет активной. Камера транслирует собственную Wi-Fi-сеть — она не подключается к домашнему роутеру или мобильной точке доступа. Чтобы выключить Wi-Fi, снова удержите заднюю кнопку." },
+      { "type": "heading",   "text": "Подключение смартфона" },
+      { "type": "paragraph", "text": "1. Включите Wi-Fi на камере (удержите заднюю кнопку). 2. На смартфоне откройте настройки Wi-Fi и выберите сеть камеры (в названии есть «Drift» или имя камеры). 3. Введите пароль — по умолчанию 1234567890. 4. После подключения откройте приложение Drift Life. Приложение соединится автоматически." },
+      { "type": "heading",   "text": "Изменение пароля Wi-Fi" },
+      { "type": "paragraph", "text": "Чтобы изменить пароль по умолчанию, откройте на камере Настройки, перейдите к пункту Wi-Fi Password и введите новое значение. Новый пароль должен состоять ровно из 10 символов. Запомните новый пароль — если забудете, нужно будет сбросить камеру до заводских настроек (Настройки → Restore Defaults), чтобы вернуть 1234567890." },
+      { "type": "heading",   "text": "Возможности приложения Drift Life" },
+      { "type": "paragraph", "text": "Просмотр в реальном времени: проверяйте кадр на смартфоне до начала записи. Дистанционное управление: запускайте и останавливайте запись, меняйте режим и делайте снимки прямо из приложения. Настройки: регулируйте разрешение, частоту кадров, угол обзора и другие параметры через интерфейс приложения. Галерея: просматривайте и загружайте записи с карты памяти камеры на смартфон." },
+      { "type": "heading",   "text": "Загрузка Drift Life" },
+      { "type": "paragraph", "text": "Drift Life — бесплатное приложение для Android (Google Play) и iOS (App Store). Найдите «Drift Life» и установите версию от Drift Innovation." },
+      { "type": "heading",   "text": "Wi-Fi и заряд аккумулятора" },
+      { "type": "paragraph", "text": "Если Wi-Fi включён во время записи, аккумулятор расходуется быстрее. Если просмотр в реальном времени и дистанционное управление не нужны, отключите Wi-Fi для продления времени записи. При выключении камеры Wi-Fi автоматически отключается." }
+    ]
+  }
+}

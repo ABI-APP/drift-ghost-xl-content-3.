@@ -1,0 +1,39 @@
+{
+  "section_id": "audio",
+  "version": 2,
+  "translations": {
+    "en": [
+      { "type": "heading",   "text": "Built-In Microphone" },
+      { "type": "paragraph", "text": "The Ghost XL has a mono microphone built into the front face of the camera, behind the lens barrel. It picks up audio in all directions. Because the microphone is on the outside of the camera body, it is exposed to wind noise at speed. Using a foam windshield accessory or lowering the Microphone Sensitivity setting helps reduce this." },
+      { "type": "heading",   "text": "Microphone Sensitivity" },
+      { "type": "paragraph", "text": "Sensitivity can be adjusted from 0 to 5 in the Settings menu. A setting of 5 captures more ambient sound but amplifies wind noise and vibration. A setting of 1 or 2 is better for high-speed riding or motorcycle use where engine and wind noise would otherwise dominate. Set to 0 to mute the microphone entirely." },
+      { "type": "heading",   "text": "External Microphone" },
+      { "type": "paragraph", "text": "Connect an external 3.5 mm TRS microphone using the supplied TRS Audio Adapter Cable. The adapter plugs into the camera's 3.5 mm AUX port. Once connected, the camera uses the external microphone instead of the built-in one. This is the best option for recording voice commentary, interviews, or audio in environments where the built-in microphone picks up too much noise." },
+      { "type": "paragraph", "text": "Note: only one accessory can be connected to the 3.5 mm AUX port at a time. If the TRS Power Cable (for vehicle power) is connected, the external microphone cannot be used simultaneously." },
+      { "type": "heading",   "text": "Speaker Volume" },
+      { "type": "paragraph", "text": "The Ghost XL has a small built-in speaker used for audio feedback (button press confirmations, mode change chimes, and low-battery alerts). Speaker volume can be adjusted or muted in the Settings menu. Muting the speaker is useful in quiet environments such as wildlife observation or when recording in locations where sound would be disruptive." }
+    ],
+    "ko": [
+      { "type": "heading",   "text": "내장 마이크" },
+      { "type": "paragraph", "text": "Ghost XL은 렌즈 배럴 뒤쪽 카메라 앞면에 모노 마이크가 내장되어 있습니다. 전방위 오디오를 수음합니다. 마이크가 카메라 외부에 노출되어 있어 고속 주행 시 바람 소음이 유입될 수 있습니다. 폼 방풍 액세서리를 사용하거나 마이크 감도 설정을 낮추면 바람 소음을 줄일 수 있습니다." },
+      { "type": "heading",   "text": "마이크 감도" },
+      { "type": "paragraph", "text": "설정 메뉴에서 감도를 0~5 사이로 조정할 수 있습니다. 5로 설정하면 주변 소리를 더 많이 수음하지만 바람 소음과 진동도 증폭됩니다. 고속 주행이나 오토바이 사용 시에는 엔진 소음과 바람 소리를 억제하기 위해 1 또는 2로 낮추는 것이 좋습니다. 0으로 설정하면 마이크가 완전히 음소거됩니다." },
+      { "type": "heading",   "text": "외부 마이크" },
+      { "type": "paragraph", "text": "동봉된 TRS 오디오 어댑터 케이블로 3.5mm TRS 외부 마이크를 연결하세요. 어댑터를 카메라의 3.5mm AUX 포트에 꽂으면 내장 마이크 대신 외부 마이크가 사용됩니다. 음성 해설, 인터뷰 녹음, 또는 내장 마이크가 주변 소음을 너무 많이 잡는 환경에서 최적의 선택입니다." },
+      { "type": "paragraph", "text": "참고: 3.5mm AUX 포트에는 한 번에 하나의 액세서리만 연결할 수 있습니다. TRS 전원 케이블(차량 전원용)이 연결되어 있으면 외부 마이크를 동시에 사용할 수 없습니다." },
+      { "type": "heading",   "text": "스피커 볼륨" },
+      { "type": "paragraph", "text": "Ghost XL에는 버튼 입력 확인음, 모드 변경 알림음, 배터리 부족 경고 등의 오디오 피드백을 위한 소형 내장 스피커가 있습니다. 설정 메뉴에서 스피커 볼륨을 조정하거나 음소거할 수 있습니다. 야생 동물 촬영이나 조용한 환경에서 소리가 방해가 될 때는 스피커를 음소거하는 것이 좋습니다." }
+    ],
+    "ru": [
+      { "type": "heading",   "text": "Встроенный микрофон" },
+      { "type": "paragraph", "text": "В Ghost XL установлен монофонический микрофон на передней панели корпуса, позади объектива. Он записывает звук со всех направлений. Так как микрофон находится снаружи, на скорости он улавливает шум ветра. Снизить его помогают поролоновый ветрозащитный чехол и уменьшение чувствительности микрофона в настройках." },
+      { "type": "heading",   "text": "Чувствительность микрофона" },
+      { "type": "paragraph", "text": "Чувствительность регулируется от 0 до 5 в меню настроек. При значении 5 камера лучше улавливает окружающие звуки, но также усиливает шум ветра и вибрацию. При езде на высокой скорости или мотоцикле рекомендуется значение 1 или 2, чтобы шум мотора и ветра не заглушал запись. При значении 0 микрофон полностью отключается." },
+      { "type": "heading",   "text": "Внешний микрофон" },
+      { "type": "paragraph", "text": "Подключите внешний микрофон 3,5 мм TRS через прилагаемый кабель-адаптер TRS. Адаптер вставляется в порт 3,5 мм AUX камеры. После подключения камера использует внешний микрофон вместо встроенного. Это лучший вариант для записи голосового комментария, интервью или в условиях, когда встроенный микрофон улавливает слишком много постороннего шума." },
+      { "type": "paragraph", "text": "Примечание: к порту 3,5 мм AUX можно подключить только один аксессуар одновременно. При подключённом кабеле питания TRS (для автомобиля) использование внешнего микрофона невозможно." },
+      { "type": "heading",   "text": "Громкость динамика" },
+      { "type": "paragraph", "text": "В Ghost XL есть небольшой встроенный динамик для звуковой обратной связи: подтверждение нажатия кнопок, сигналы смены режима и предупреждение о низком заряде. Громкость динамика регулируется или полностью отключается в меню настроек. Отключение звука удобно в тихих местах — при наблюдении за дикой природой или в обстановке, где посторонние звуки неуместны." }
+    ]
+  }
+}
