@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "commit": "9007bec46f588777a9e3d2d7ed0caa8c82f5d66c",
+  "sections": {
+    "in_use": {
+      "version": 2,
+      "path": "sections/in_use.json"
+    },
+    "features": {
+      "version": 3,
+      "path": "sections/features.json"
+    },
+    "value": {
+      "version": 2,
+      "path": "sections/value.json"
+    },
+    "build": {
+      "version": 2,
+      "path": "sections/build.json"
+    },
+    "performance": {
+      "version": 2,
+      "path": "sections/performance.json"
+    },
+    "troubleshooting": {
+      "version": 2,
+      "path": "sections/troubleshooting.json"
+    },
+    "design": {
+      "version": 2,
+      "path": "sections/design.json"
+    },
+    "battery": {
+      "version": 2,
+      "path": "sections/battery.json"
+    },
+    "audio": {
+      "version": 2,
+      "path": "sections/audio.json"
+    },
+    "video_review": {
+      "version": 3,
+      "path": "sections/video_review.json"
+    },
+    "photo": {
+      "version": 2,
+      "path": "sections/photo.json"
+    },
+    "settings": {
+      "version": 2,
+      "path": "sections/settings.json"
+    },
+    "wifi_app": {
+      "version": 2,
+      "path": "sections/wifi_app.json"
+    },
+    "memory_storage": {
+      "version": 2,
+      "path": "sections/memory_storage.json"
+    },
+    "firmware": {
+      "version": 3,
+      "path": "sections/firmware.json"
+    }
+  }
+}
