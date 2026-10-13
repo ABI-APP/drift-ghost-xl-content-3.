@@ -1,6 +1,6 @@
 {
   "section_id": "battery",
-  "version": 3,
+  "version": 4,
   "translations": {
     "en": [
       { "type": "heading",   "text": "Battery Capacity and Recording Time" },
@@ -11,8 +11,7 @@
       { "type": "paragraph", "text": "Connect the TRS Power Cable to the camera's 3.5 mm AUX port and the other end to a 12 V vehicle USB adapter. With Dash Cam Mode active, the camera powers on when vehicle power is applied and powers off cleanly when the ignition is cut. This allows continuous recording on long drives without draining the internal battery." },
       { "type": "paragraph", "text": "Important: when the TRS Power Cable is plugged in, the 3.5 mm port is occupied. An external microphone cannot be used at the same time as vehicle power through this port. The waterproof seal is also broken when any adapter is connected — see the Build section for details." },
       { "type": "heading",   "text": "Battery Care" },
-      { "type": "paragraph", "text": "Avoid leaving the camera in a hot car for extended periods — high ambient temperatures degrade lithium batteries over time. If storing the camera for more than a month, charge it to roughly 50% before storing. Do not attempt to open the camera or replace the battery yourself; the battery is sealed inside the waterproof body and replacement requires service." },
-      { "type": "paragraph", "text": "Content update test — October 2026." }
+      { "type": "paragraph", "text": "Avoid leaving the camera in a hot car for extended periods — high ambient temperatures degrade lithium batteries over time. If storing the camera for more than a month, charge it to roughly 50% before storing. Do not attempt to open the camera or replace the battery yourself; the battery is sealed inside the waterproof body and replacement requires service." }
     ],
     "ko": [
       { "type": "heading",   "text": "배터리 용량 및 녹화 시간" },
