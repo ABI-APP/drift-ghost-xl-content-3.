@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "commit": "22552502726667c520d93ce82dabc9c73b7b382d",
+  "version": 5,
+  "commit": "c5de6aa386a56f6e176566734f05823d645fe7bd",
   "sections": {
     "in_use":          { "version": 2, "path": "sections/in_use.json" },
     "features":        { "version": 3, "path": "sections/features.json" },
@@ -9,7 +9,7 @@
     "performance":     { "version": 2, "path": "sections/performance.json" },
     "troubleshooting": { "version": 2, "path": "sections/troubleshooting.json" },
     "design":          { "version": 2, "path": "sections/design.json" },
-    "battery":         { "version": 3, "path": "sections/battery.json" },
+    "battery":         { "version": 4, "path": "sections/battery.json" },
     "audio":           { "version": 2, "path": "sections/audio.json" },
     "video_review":    { "version": 3, "path": "sections/video_review.json" },
     "photo":           { "version": 2, "path": "sections/photo.json" },
